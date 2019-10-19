@@ -1,0 +1,26 @@
+    <client>
+        <field name="account_number">999369154</field>
+        <field name="recipient_name">ООО "КОМПЛЕКСНЫЙ РАСЧЕТНЫЙ ЦЕНТР ГОРОДА ПЕТРОЗАВОДСКА"</field>
+        <field name="address">Карелия Респ, г. Петрозаводск, р-н Голиковка, ул. Кузьмина, д. 37, кв. 1</field>
+        <field name="firstname">Жуманазар</field>
+        <field name="lastname">Маск</field>
+        <field name="patronymic"/>
+        <field name="month">09</field>
+        <field name="year">2019</field>
+        <field name="debt_amount"></field>
+        <field name="reminder_amount">343.00</field>
+        <field name="house_fias_id">56e343ff-d63f-402c-9044-f1d78be88402</field>
+        <field name="bank_name">КАРЕЛЬСКОЕ ОТДЕЛЕНИЕ N8628 ПАО СБЕРБАНК</field>
+        <field name="bank_account">30101810600000000673</field>
+        <field name="bik">048602673</field>
+        <field name="kbk"/>
+        <field name="oktmo"/>
+        <field name="unified_account_number">50АС949349</field>
+        <field name="payment_document_id">50АС949349-09-9091</field>
+        <field name="mc_service_id"/>
+        <field name="inn">1001190250</field>
+        <field name="kpp">100101001</field>
+        <field name="rs">40702810325000106508</field>
+        <field name="purpose">Оплата ЛС  //№999369154//ИПД //№50АС949349-09-9091// ЖКУ</field>
+        <field name="amount">343.00</field>
+    </client>
