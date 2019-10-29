@@ -1,0 +1,1670 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "audiobookapi API documentation",
+    "version": "0.0.1",
+    "title": "audiobookapi API",
+    "contact": {},
+    "license": {}
+  },
+  "host": "https://api.audiokitobim.uz/",
+  "basePath": "/",
+  "tags": [
+    {
+      "name": "advertising-resource",
+      "description": "Advertising Resource"
+    },
+    {
+      "name": "audio-translator-resource",
+      "description": "Audio Translator Resource"
+    },
+    {
+      "name": "author-resource",
+      "description": "Author Resource"
+    },
+    {
+      "name": "category-book-resource",
+      "description": "Category Book Resource"
+    },
+    {
+      "name": "category-resource",
+      "description": "Category Resource"
+    },
+    {
+      "name": "comment-resource",
+      "description": "Comment Resource"
+    },
+    {
+      "name": "customer-auth-resource",
+      "description": "Customer Auth Resource"
+    },
+    {
+      "name": "customer-resource",
+      "description": "Customer Resource"
+    },
+    {
+      "name": "faqs-resource",
+      "description": "Faqs Resource"
+    },
+    {
+      "name": "news-resource",
+      "description": "News Resource"
+    },
+    {
+      "name": "tariff-category-resource",
+      "description": "Tariff Category Resource"
+    },
+    {
+      "name": "track-resource",
+      "description": "Track Resource"
+    },
+    {
+      "name": "transaction-resource",
+      "description": "Transaction Resource"
+    },
+    {
+      "name": "voucher-resource",
+      "description": "Voucher Resource"
+    }
+  ],
+  "paths": {
+    "/api/v1/advertisings": {
+      "get": {
+        "tags": [
+          "advertising-resource"
+        ],
+        "summary": "getAllAdvertisings",
+        "operationId": "getAllAdvertisingsUsingGET",
+        "produces": [
+          "*/*"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/AdvertisingDTO"
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/audio-translator/{audioTranslatorId}/books": {
+      "get": {
+        "tags": [
+          "category-book-resource"
+        ],
+        "summary": "getAllByAudioTranslatorId",
+        "operationId": "getAllByAudioTranslatorIdUsingGET",
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "name": "audioTranslatorId",
+            "in": "path",
+            "description": "audioTranslatorId",
+            "required": true,
+            "type": "integer",
+            "format": "int64"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "$ref": "#/definitions/CategoryBookDTO"
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/audio-translator/{id}": {
+      "get": {
+        "tags": [
+          "audio-translator-resource"
+        ],
+        "summary": "getAudioTranslator",
+        "operationId": "getAudioTranslatorUsingGET",
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "id",
+            "required": true,
+            "type": "integer",
+            "format": "int64"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "$ref": "#/definitions/AudioTranslatorDTO"
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/author/{authorId}/books": {
+      "get": {
+        "tags": [
+          "category-book-resource"
+        ],
+        "summary": "getAllByAuthorId",
+        "operationId": "getAllByAuthorIdUsingGET",
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "name": "authorId",
+            "in": "path",
+            "description": "authorId",
+            "required": true,
+            "type": "integer",
+            "format": "int64"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "$ref": "#/definitions/CategoryBookDTO"
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/author/{id}": {
+      "get": {
+        "tags": [
+          "author-resource"
+        ],
+        "summary": "getAuthor",
+        "operationId": "getAuthorUsingGET",
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "id",
+            "required": true,
+            "type": "integer",
+            "format": "int64"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "$ref": "#/definitions/AuthorDTO"
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/books/{bookId}": {
+      "get": {
+        "tags": [
+          "category-book-resource"
+        ],
+        "summary": "getBook",
+        "operationId": "getBookUsingGET",
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "name": "bookId",
+            "in": "path",
+            "description": "bookId",
+            "required": true,
+            "type": "integer",
+            "format": "int64"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "$ref": "#/definitions/BookDTO"
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/categories": {
+      "get": {
+        "tags": [
+          "category-resource"
+        ],
+        "summary": "getAllCategories",
+        "operationId": "getAllCategoriesUsingGET",
+        "produces": [
+          "*/*"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/CategoryDTO"
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/category-books/{categoryId}": {
+      "get": {
+        "tags": [
+          "category-book-resource"
+        ],
+        "summary": "getCategoryBook",
+        "operationId": "getCategoryBookUsingGET",
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "name": "categoryId",
+            "in": "path",
+            "description": "categoryId",
+            "required": true,
+            "type": "integer",
+            "format": "int64"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "$ref": "#/definitions/CategoryBookDTO"
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/comments": {
+      "post": {
+        "tags": [
+          "comment-resource"
+        ],
+        "summary": "createComment",
+        "operationId": "createCommentUsingPOST",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "commentVM",
+            "description": "commentVM",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/CommentVM"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "object"
+            }
+          },
+          "201": {
+            "description": "Created"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/encryption-track/{id}": {
+      "get": {
+        "tags": [
+          "track-resource"
+        ],
+        "summary": "getEncryptionTrack",
+        "operationId": "getEncryptionTrackUsingGET",
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "id",
+            "required": true,
+            "type": "integer",
+            "format": "int64"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "object"
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/faqs": {
+      "get": {
+        "tags": [
+          "faqs-resource"
+        ],
+        "summary": "getAllFaqs",
+        "operationId": "getAllFaqsUsingGET",
+        "produces": [
+          "*/*"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/FaqsDTO"
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/join": {
+      "post": {
+        "tags": [
+          "customer-auth-resource"
+        ],
+        "summary": "authorize",
+        "operationId": "authorizeUsingPOST",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "customerAuthVM",
+            "description": "customerAuthVM",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/CustomerAuthVM"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "$ref": "#/definitions/ResponseEntity"
+            }
+          },
+          "201": {
+            "description": "Created"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/new/book/images": {
+      "get": {
+        "tags": [
+          "category-book-resource"
+        ],
+        "summary": "getNewBookImages",
+        "operationId": "getNewBookImagesUsingGET",
+        "produces": [
+          "*/*"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "object"
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/new/books": {
+      "get": {
+        "tags": [
+          "category-book-resource"
+        ],
+        "summary": "getNewBooks",
+        "operationId": "getNewBooksUsingGET",
+        "produces": [
+          "*/*"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "$ref": "#/definitions/CategoryBookDTO"
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/news": {
+      "get": {
+        "tags": [
+          "news-resource"
+        ],
+        "summary": "getAllNews",
+        "operationId": "getAllNewsUsingGET",
+        "produces": [
+          "*/*"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/NewsDTO"
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/popular/book/images": {
+      "get": {
+        "tags": [
+          "category-book-resource"
+        ],
+        "summary": "getPopularBookImages",
+        "operationId": "getPopularBookImagesUsingGET",
+        "produces": [
+          "*/*"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "object"
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/popular/books": {
+      "get": {
+        "tags": [
+          "category-book-resource"
+        ],
+        "summary": "getPopularBooks",
+        "operationId": "getPopularBooksUsingGET",
+        "produces": [
+          "*/*"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "$ref": "#/definitions/CategoryBookDTO"
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/profile": {
+      "get": {
+        "tags": [
+          "customer-resource"
+        ],
+        "summary": "getProfile",
+        "operationId": "getProfileUsingGET",
+        "produces": [
+          "*/*"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "object"
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      },
+      "put": {
+        "tags": [
+          "customer-resource"
+        ],
+        "summary": "updateCustomer",
+        "operationId": "updateCustomerUsingPUT",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "customerDTO",
+            "description": "customerDTO",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/CustomerDTO"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "object"
+            }
+          },
+          "201": {
+            "description": "Created"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/search/books": {
+      "get": {
+        "tags": [
+          "category-book-resource"
+        ],
+        "summary": "getSearchBook",
+        "operationId": "getSearchBookUsingGET",
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "name": "query",
+            "in": "query",
+            "description": "query",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "$ref": "#/definitions/CategoryBookDTO"
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/tariff": {
+      "get": {
+        "tags": [
+          "tariff-category-resource"
+        ],
+        "summary": "getAllTariffCategories",
+        "operationId": "getAllTariffCategoriesUsingGET",
+        "produces": [
+          "*/*"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/TariffCategoryDTO"
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/tariff/paycom/buy": {
+      "post": {
+        "tags": [
+          "transaction-resource"
+        ],
+        "summary": "createTransaction",
+        "operationId": "createTransactionUsingPOST",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "buyTariff",
+            "description": "buyTariff",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/BuyTariffVM"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "object"
+            }
+          },
+          "201": {
+            "description": "Created"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/tariff/uzcard/buy": {
+      "post": {
+        "tags": [
+          "transaction-resource"
+        ],
+        "summary": "createUzcardTransaction",
+        "operationId": "createUzcardTransactionUsingPOST",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "buyTariff",
+            "description": "buyTariff",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/BuyTariffVM"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "object"
+            }
+          },
+          "201": {
+            "description": "Created"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/tariff/visa/buy": {
+      "post": {
+        "tags": [
+          "transaction-resource"
+        ],
+        "summary": "createVisaTransaction",
+        "operationId": "createVisaTransactionUsingPOST",
+        "consumes": [
+          "application/json"
+        ],
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "buyTariff",
+            "description": "buyTariff",
+            "required": true,
+            "schema": {
+              "$ref": "#/definitions/BuyTariffVM"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "object"
+            }
+          },
+          "201": {
+            "description": "Created"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/tracks/{bookId}/book": {
+      "get": {
+        "tags": [
+          "track-resource"
+        ],
+        "summary": "getAllTracksByBook",
+        "operationId": "getAllTracksByBookUsingGET",
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "name": "bookId",
+            "in": "path",
+            "description": "bookId",
+            "required": true,
+            "type": "integer",
+            "format": "int64"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "object"
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/transactions": {
+      "get": {
+        "tags": [
+          "transaction-resource"
+        ],
+        "summary": "getAllTransactions",
+        "operationId": "getAllTransactionsUsingGET",
+        "produces": [
+          "*/*"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/TransactionDTO"
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/api/v1/voucher/{voucherCode}": {
+      "get": {
+        "tags": [
+          "voucher-resource"
+        ],
+        "summary": "getVoucher",
+        "operationId": "getVoucherUsingGET",
+        "produces": [
+          "*/*"
+        ],
+        "parameters": [
+          {
+            "name": "voucherCode",
+            "in": "path",
+            "description": "voucherCode",
+            "required": true,
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "object"
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    }
+  },
+  "definitions": {
+    "AdvertisingDTO": {
+      "type": "object",
+      "required": [
+        "redirectType",
+        "type"
+      ],
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "redirectType": {
+          "type": "string",
+          "enum": [
+            "IDLE",
+            "LOCAL",
+            "GLOBAL"
+          ]
+        },
+        "redirectUrl": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string",
+          "enum": [
+            "IMAGE",
+            "VIDEO",
+            "GIF"
+          ]
+        },
+        "url": {
+          "type": "string"
+        }
+      },
+      "title": "AdvertisingDTO"
+    },
+    "AudioTranslatorDTO": {
+      "type": "object",
+      "required": [
+        "avatarUrl"
+      ],
+      "properties": {
+        "about": {
+          "type": "string"
+        },
+        "avatarUrl": {
+          "type": "string"
+        },
+        "comments": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/CommentDTO"
+          }
+        },
+        "firstName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "rating": {
+          "type": "number",
+          "format": "double"
+        }
+      },
+      "title": "AudioTranslatorDTO"
+    },
+    "AuthorDTO": {
+      "type": "object",
+      "required": [
+        "avatarUrl"
+      ],
+      "properties": {
+        "about": {
+          "type": "string"
+        },
+        "avatarUrl": {
+          "type": "string"
+        },
+        "comments": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/CommentDTO"
+          }
+        },
+        "firstName": {
+          "type": "string"
+        },
+        "id": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "rating": {
+          "type": "number",
+          "format": "double"
+        }
+      },
+      "title": "AuthorDTO"
+    },
+    "BookDTO": {
+      "type": "object",
+      "required": [
+        "downloads",
+        "image"
+      ],
+      "properties": {
+        "annotationUrl": {
+          "type": "string"
+        },
+        "audioTranslator": {
+          "type": "string"
+        },
+        "audioTranslatorDTO": {
+          "$ref": "#/definitions/AudioTranslatorDTO"
+        },
+        "authorDTO": {
+          "$ref": "#/definitions/AuthorDTO"
+        },
+        "bookLength": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "comments": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/CommentDTO"
+          }
+        },
+        "description": {
+          "type": "string"
+        },
+        "downloads": {
+          "type": "integer",
+          "format": "int32"
+        },
+        "id": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "image": {
+          "type": "string"
+        },
+        "isFree": {
+          "type": "boolean"
+        },
+        "rating": {
+          "type": "number",
+          "format": "double"
+        },
+        "title": {
+          "type": "string"
+        }
+      },
+      "title": "BookDTO"
+    },
+    "BuyTariffVM": {
+      "type": "object",
+      "properties": {
+        "tariffId": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "voucherCode": {
+          "type": "string"
+        }
+      },
+      "title": "BuyTariffVM"
+    },
+    "CategoryBookDTO": {
+      "type": "object",
+      "properties": {
+        "books": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/BookDTO"
+          }
+        },
+        "categoryId": {
+          "type": "integer",
+          "format": "int64"
+        }
+      },
+      "title": "CategoryBookDTO"
+    },
+    "CategoryDTO": {
+      "type": "object",
+      "required": [
+        "isFree"
+      ],
+      "properties": {
+        "backgroundColor": {
+          "type": "string",
+          "minLength": 0,
+          "maxLength": 9
+        },
+        "icon": {
+          "type": "string"
+        },
+        "id": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "image": {
+          "type": "string"
+        },
+        "isFree": {
+          "type": "boolean"
+        },
+        "name": {
+          "type": "string"
+        },
+        "subCategories": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/CategoryDTO"
+          }
+        }
+      },
+      "title": "CategoryDTO"
+    },
+    "CategoryVM": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "name": {
+          "type": "string"
+        }
+      },
+      "title": "CategoryVM"
+    },
+    "CommentDTO": {
+      "type": "object",
+      "properties": {
+        "content": {
+          "type": "string"
+        },
+        "fullName": {
+          "type": "string"
+        },
+        "rating": {
+          "type": "integer",
+          "format": "int32"
+        }
+      },
+      "title": "CommentDTO"
+    },
+    "CommentVM": {
+      "type": "object",
+      "required": [
+        "content",
+        "rating"
+      ],
+      "properties": {
+        "audioTranslatorId": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "authorId": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "bookId": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "content": {
+          "type": "string"
+        },
+        "rating": {
+          "type": "integer",
+          "format": "int32"
+        }
+      },
+      "title": "CommentVM"
+    },
+    "CustomerAuthVM": {
+      "type": "object",
+      "properties": {
+        "email": {
+          "type": "string"
+        },
+        "facebookEmail": {
+          "type": "string"
+        },
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "phone": {
+          "type": "string"
+        },
+        "privateKey": {
+          "type": "string"
+        },
+        "source": {
+          "type": "string"
+        }
+      },
+      "title": "CustomerAuthVM"
+    },
+    "CustomerDTO": {
+      "type": "object",
+      "properties": {
+        "birthDate": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "countryId": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "countryName": {
+          "type": "string"
+        },
+        "email": {
+          "type": "string"
+        },
+        "facebookEmail": {
+          "type": "string"
+        },
+        "firstName": {
+          "type": "string",
+          "minLength": 0,
+          "maxLength": 50
+        },
+        "gender": {
+          "type": "string",
+          "enum": [
+            "MALE",
+            "FEMALE",
+            "UNKNOWN"
+          ]
+        },
+        "id": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "lastName": {
+          "type": "string",
+          "minLength": 0,
+          "maxLength": 50
+        },
+        "phone": {
+          "type": "string",
+          "minLength": 0,
+          "maxLength": 15
+        },
+        "regionId": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "regionName": {
+          "type": "string"
+        },
+        "tariff": {
+          "$ref": "#/definitions/TransactionDTO"
+        }
+      },
+      "title": "CustomerDTO"
+    },
+    "FaqsDTO": {
+      "type": "object",
+      "properties": {
+        "answer": {
+          "type": "string"
+        },
+        "id": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "question": {
+          "type": "string"
+        }
+      },
+      "title": "FaqsDTO"
+    },
+    "NewsDTO": {
+      "type": "object",
+      "required": [
+        "pubDate"
+      ],
+      "properties": {
+        "description": {
+          "type": "string"
+        },
+        "id": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "pubDate": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "title": {
+          "type": "string"
+        }
+      },
+      "title": "NewsDTO"
+    },
+    "ResponseEntity": {
+      "type": "object",
+      "properties": {
+        "body": {
+          "type": "object"
+        },
+        "statusCode": {
+          "type": "string",
+          "enum": [
+            "100",
+            "101",
+            "102",
+            "103",
+            "200",
+            "201",
+            "202",
+            "203",
+            "204",
+            "205",
+            "206",
+            "207",
+            "208",
+            "226",
+            "300",
+            "301",
+            "302",
+            "303",
+            "304",
+            "305",
+            "307",
+            "308",
+            "400",
+            "401",
+            "402",
+            "403",
+            "404",
+            "405",
+            "406",
+            "407",
+            "408",
+            "409",
+            "410",
+            "411",
+            "412",
+            "413",
+            "414",
+            "415",
+            "416",
+            "417",
+            "418",
+            "419",
+            "420",
+            "421",
+            "422",
+            "423",
+            "424",
+            "426",
+            "428",
+            "429",
+            "431",
+            "451",
+            "500",
+            "501",
+            "502",
+            "503",
+            "504",
+            "505",
+            "506",
+            "507",
+            "508",
+            "509",
+            "510",
+            "511"
+          ]
+        },
+        "statusCodeValue": {
+          "type": "integer",
+          "format": "int32"
+        }
+      },
+      "title": "ResponseEntity"
+    },
+    "TariffCategoryDTO": {
+      "type": "object",
+      "properties": {
+        "categories": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/CategoryVM"
+          }
+        },
+        "currency": {
+          "type": "string"
+        },
+        "isDownloadable": {
+          "type": "boolean"
+        },
+        "name": {
+          "type": "string"
+        },
+        "period": {
+          "type": "integer",
+          "format": "int32"
+        },
+        "price": {
+          "type": "number"
+        },
+        "tariffId": {
+          "type": "integer",
+          "format": "int64"
+        }
+      },
+      "title": "TariffCategoryDTO"
+    },
+    "TransactionDTO": {
+      "type": "object",
+      "properties": {
+        "amounSum": {
+          "type": "number"
+        },
+        "amountUsd": {
+          "type": "number"
+        },
+        "approvedDate": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "createdDate": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "endTariffDate": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "id": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "name": {
+          "type": "string"
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "STATE_NEW",
+            "INPROGRESS",
+            "SUCCESS",
+            "FAILURE",
+            "STATE_POST_CANCELED",
+            "PERIOD_FINISHED"
+          ]
+        },
+        "voucherId": {
+          "type": "integer",
+          "format": "int64"
+        }
+      },
+      "title": "TransactionDTO"
+    }
+  }
+}   
