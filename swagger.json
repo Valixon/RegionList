@@ -7,7 +7,7 @@
     "contact": {},
     "license": {}
   },
-  "host": "https://api.audiokitobim.uz/",
+  "host": "api.audiokitobim.uz",
   "basePath": "/",
   "tags": [
     {
