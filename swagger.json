@@ -3,9 +3,7 @@
   "info": {
     "description": "audiobookapi API documentation",
     "version": "0.0.1",
-    "title": "audiobookapi API",
-    "contact": {},
-    "license": {}
+    "title": "audiobookapi API"
   },
   "host": "api.audiokitobim.uz",
   "basePath": "/",
