@@ -1,0 +1,10 @@
+{
+"result": 0,
+  "resultMessage": "Успешно",
+  "transactionId": 210000746913232,
+  "agentTransactionId": 1234567891,
+  "currencyRate": "Курс конвертации USD/KZT 480.3500",
+  "rate": 480.35,
+  "finalAmount": 480.3500,
+  "currency": "KZT"
+}
