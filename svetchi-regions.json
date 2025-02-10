@@ -452,222 +452,106 @@
                 "title": "Tuman",
                 "titles": {},
                 "areas": [
-                    {
-                        "code": "71",
-                        "name": "Samarqand shahar",
-                        "names": {
-                            "uz": "Samarqand shahar",
-                            "ru": "г. Самарканд",
-                            "en": "Samarkand city"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "72",
-                        "name": "Samarqand tumani",
-                        "names": {
-                            "uz": "Samarqand tumani",
-                            "ru": "Самаркандский район",
-                            "en": "Samarkand district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "73",
-                        "name": "Bulung\u0027ur tumani",
-                        "names": {
-                            "uz": "Bulung\u0027ur tumani",
-                            "ru": "Булунгурский район",
-                            "en": "Bulungur district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "74",
-                        "name": "Jomboy tumani",
-                        "names": {
-                            "uz": "Jomboy tumani",
-                            "ru": "Жамбайский район",
-                            "en": "Jambay district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "75",
-                        "name": "Pastdarg\u0027om tumani",
-                        "names": {
-                            "uz": "Pastdarg\u0027om tumani",
-                            "ru": "Пастаргомский район",
-                            "en": "Pasdargom district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "76",
-                        "name": "Ishtixon tumani",
-                        "names": {
-                            "uz": "Ishtixon tumani",
-                            "ru": "Иштиханский район",
-                            "en": "Ishtikhon district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "77",
-                        "name": "Kattaqo\u0027rg\u0027on shahar",
-                        "names": {
-                            "uz": "Kattaqo\u0027rg\u0027on shahar",
-                            "ru": "г. Каттакургон",
-                            "en": "Kattakurgan district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "78",
-                        "name": "Nurobod tumani",
-                        "names": {
-                            "uz": "Nurobod tumani",
-                            "ru": "Нурабадский район",
-                            "en": "Nurabad district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "79",
-                        "name": "Oqdaryo tumani",
-                        "names": {
-                            "uz": "Oqdaryo tumani",
-                            "ru": "Окдаринский район ",
-                            "en": "Akdarya district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "80",
-                        "name": "Narpay tumani",
-                        "names": {
-                            "uz": "Narpay tumani",
-                            "ru": "Нарпайский район",
-                            "en": "Narpay district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "81",
-                        "name": "Payariq tumani",
-                        "names": {
-                            "uz": "Payariq tumani",
-                            "ru": "Пайарикский район",
-                            "en": "Payarik district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "82",
-                        "name": "Kattaqo\u0027rg\u0027on tumani",
-                        "names": {
-                            "uz": "Kattaqo\u0027rg\u0027on tumani",
-                            "ru": "Каттакурганский район",
-                            "en": "Kattakurgan district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "83",
-                        "name": "Paxtachi tumani",
-                        "names": {
-                            "uz": "Paxtachi tumani",
-                            "ru": "Пахтачинский район",
-                            "en": "Pakhtachi district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "84",
-                        "name": "Toyloq tumani",
-                        "names": {
-                            "uz": "Toyloq tumani",
-                            "ru": "Тайлокский район",
-                            "en": "Taylok district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "85",
-                        "name": "Urgut tumani",
-                        "names": {
-                            "uz": "Urgut tumani",
-                            "ru": "Ургутский район",
-                            "en": "Urgut district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "86",
-                        "name": "Qo\u0027shrabod tumani",
-                        "names": {
-                            "uz": "Qo\u0027shrabod tumani",
-                            "ru": "Кушрабадский район",
-                            "en": "Kushrabot district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "228",
-                        "name": "G\u0027azalkent tumani",
-                        "names": {
-                            "uz": "G\u0027azalkent tumani",
-                            "ru": "Гузалкентский район",
-                            "en": "Gazalkent district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "87",
-                        "name": "Chelek tumani",
-                        "names": {
-                            "uz": "Chelek tumani",
-                            "ru": "Челакский район",
-                            "en": "Chelek district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    }
+                  {
+                    "code": "18203",
+                    "name": "Oqdaryo TETK (18203)"
+                  },
+                  {
+                    "code": "18408",
+                    "name": "Bog‘ishamol ShETK (18408)"
+                  },
+                  {
+                    "code": "18206",
+                    "name": "Bulung‘ur TETK (18206)"
+                  },
+                  {
+                    "code": "18228",
+                    "name": "Go‘zalkent TETK (18228)"
+                  },
+                  {
+                    "code": "18237",
+                    "name": "Dehqonobod TETK (18237)"
+                  },
+                  {
+                    "code": "18239",
+                    "name": "Dehqonobod TETK (18239)"
+                  },
+                  {
+                    "code": "18209",
+                    "name": "Jomboy TETK (18209)"
+                  },
+                  {
+                    "code": "18233",
+                    "name": "Do‘stlik TETK (18233)"
+                  },
+                  {
+                    "code": "18234",
+                    "name": "Zarafshon TETK (18234)"
+                  },
+                  {
+                    "code": "18212",
+                    "name": "Ishtixon TETK (18212)"
+                  },
+                  {
+                    "code": "18214",
+                    "name": "Kattaqo`rg`on TETK (18214)"
+                  },
+                  {
+                    "code": "18215",
+                    "name": "Kattaqo`rg`on TETK (18215)"
+                  },
+                  {
+                    "code": "18216",
+                    "name": "Qo‘shrabod TETK (18216)"
+                  },
+                  {
+                    "code": "18218",
+                    "name": "Narpay TETK (18218)"
+                  },
+                  {
+                    "code": "18235",
+                    "name": "Nurobod TETK (18235)"
+                  },
+                  {
+                    "code": "18224",
+                    "name": "Payariq TETK (18224)"
+                  },
+                  {
+                    "code": "18227",
+                    "name": "Pastdarg‘om TETK (18227)"
+                  },
+                  {
+                    "code": "18230",
+                    "name": "Paxtachi TETK (18230)"
+                  },
+                  {
+                    "code": "18400",
+                    "name": "Samarqand Energosotish (18400)"
+                  },
+                  {
+                    "code": "18407",
+                    "name": "Siyob TETK (18407)"
+                  },
+                  {
+                    "code": "18238",
+                    "name": "Taylak TETK (18238)"
+                  },
+                  {
+                    "code": "18405",
+                    "name": "Temiryo‘l ShETK (18405)"
+                  },
+                  {
+                    "code": "18236",
+                    "name": "Urgut TETK (18236)"
+                  },
+                  {
+                    "code": "18225",
+                    "name": "Chelak TETK (18225)"
+                  },
+                  {
+                    "code": "18226",
+                    "name": "Chelak TETK (18226)"
+                  }
                 ]
             }
         },
@@ -682,174 +566,63 @@
             "children": {
                 "title": "Tuman",
                 "titles": {},
-                "areas": [
+                "areas":[
                     {
-                        "code": "56",
-                        "name": "Jizzax shahar",
-                        "names": {
-                            "uz": "Jizzax shahar",
-                            "ru": "г. Джизак",
-                            "en": "Jizzakh city"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
+                        "code": "08201",
+                        "name": "Arnasoy TETK (08201)"
                     },
+
                     {
-                        "code": "57",
-                        "name": "Jizzax tumani",
-                        "names": {
-                            "uz": "Jizzax tumani",
-                            "ru": "Джизакский район",
-                            "en": "Jizzakh district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "08204",
+                        "name": "Baxmal TETK (08204)"},
+
                     {
-                        "code": "58",
-                        "name": "G\u0027allaorol tumani",
-                        "names": {
-                            "uz": "G\u0027allaorol tumani",
-                            "ru": "Галлааралский район",
-                            "en": "Gallaarol district "
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "08209",
+                        "name": "G‘allaorol TETK (08209)"},
+
                     {
-                        "code": "59",
-                        "name": "Baxmal tumani",
-                        "names": {
-                            "uz": "Baxmal tumani",
-                            "ru": "Бахмалский район",
-                            "en": "Bakhmal district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "08402",
+                        "name": "Jizzax ShETK (08402)"},
+
                     {
-                        "code": "60",
-                        "name": "Paxtakor tumani",
-                        "names": {
-                            "uz": "Paxtakor tumani",
-                            "ru": "Пахтакарский район",
-                            "en": "Pakhtakor district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "08400",
+                        "name": "Jizzax Energosotish (08400)"},
+
                     {
-                        "code": "61",
-                        "name": "Zafarobod tumani",
-                        "names": {
-                            "uz": "Zafarobod tumani",
-                            "ru": "Зафарабадский район",
-                            "en": "Zafarobod district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "08212",
+                        "name": "Sh.Rashidov TETK (08212)"},
+
                     {
-                        "code": "62",
-                        "name": "Do\u0027stlik tumani",
-                        "names": {
-                            "uz": "Do\u0027stlik tumani",
-                            "ru": "Дустликский район",
-                            "en": "Dustlik district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "08215",
+                        "name": "Do‘stlik TETK (08215)"},
+
                     {
-                        "code": "63",
-                        "name": "Arnasoy tumani",
-                        "names": {
-                            "uz": "Arnasoy tumani",
-                            "ru": "Арнасайский район",
-                            "en": "Arnasoy district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "08218",
+                        "name": "Zomin TETK (08218)"},
+
                     {
-                        "code": "64",
-                        "name": "Mirzacho\u0027l tumani",
-                        "names": {
-                            "uz": "Mirzacho\u0027l tumani",
-                            "ru": "Мирзачулский район",
-                            "en": "Mirzachul district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "08220",
+                        "name": "Zarbdor TETK (08220)"},
+
                     {
-                        "code": "65",
-                        "name": "Zarbdor tumani",
-                        "names": {
-                            "uz": "Zarbdor tumani",
-                            "ru": "Зарбдорский район",
-                            "en": "Zardor district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "08225",
+                        "name": "Zafarobod TETK (08225)"},
+
                     {
-                        "code": "66",
-                        "name": "Zomin tumani",
-                        "names": {
-                            "uz": "Zomin tumani",
-                            "ru": "Заминский район",
-                            "en": "Zamin district  "
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "08223",
+                        "name": "Mirzacho‘l TETK (08223)"},
+
                     {
-                        "code": "67",
-                        "name": "Dashtobod tumani",
-                        "names": {
-                            "uz": "Dashtobod tumani",
-                            "ru": "Даштабадский район",
-                            "en": "Dashtobod district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "08228",
+                        "name": "Paxtakor TETK (08228)"},
+
                     {
-                        "code": "68",
-                        "name": "Forish tumani",
-                        "names": {
-                            "uz": "Forish tumani",
-                            "ru": "Форишский район",
-                            "en": "Forish district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "08235",
+                        "name": "Forish TETK (08235)"},
+
                     {
-                        "code": "69",
-                        "name": "Yangiobod tumani",
-                        "names": {
-                            "uz": "Yangiobod tumani",
-                            "ru": "Янгиабадский район",
-                            "en": "Yangiobod district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
+                        "code": "08237",
+                        "name": "Yangiobod TETK (08237)"
                     }
                 ]
             }
@@ -867,160 +640,54 @@
                 "titles": {},
                 "areas": [
                     {
-                        "code": "44",
-                        "name": "Guliston shahar",
-                        "names": {
-                            "uz": "Guliston shahar",
-                            "ru": "г. Гулистан",
-                            "en": "Gulistan city"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
+                        "code": "24206",
+                        "name": "Oqoltin TETK (24206)"
                     },
+
                     {
-                        "code": "45",
-                        "name": "Yangiyer shahar",
-                        "names": {
-                            "uz": "Yangiyer shahar",
-                            "ru": "г. Янгиер",
-                            "en": "Yangiyer city"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
+                        "code": "24212",
+                        "name": "Boyovut TETK (24212)"},
+
+                    {
+                        "code": "24401",
+                        "name": "Guliston ShETK (24401)"},
+
+                    {
+                        "code": "24220",
+                        "name": "Guliston TETK (24220)"},
+
+                    {
+                        "code": "24228",
+                        "name": "Mirzaobod TETK (24228)"},
+
+                    {
+                        "code": "24216",
+                        "name": "Sayxunobod TETK (24216)"},
+
+                    {
+                        "code": "24226",
+                        "name": "Sardoba TETK (24226)"},
+
+                    {
+                        "code": "24402",
+                        "name": "Sirdaryo Energosotish (24402)"
                     },
+
                     {
-                        "code": "46",
-                        "name": "Shirin shahar",
-                        "names": {
-                            "uz": "Shirin shahar",
-                            "ru": "г. Ширин",
-                            "en": "Shirin city"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "24231",
+                        "name": "Sirdaryo TETK (24231)"},
+
                     {
-                        "code": "47",
-                        "name": "Oqoltin tumani",
-                        "names": {
-                            "uz": "Oqoltin tumani",
-                            "ru": "Акалтинский район",
-                            "en": "Akaltin district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "24235",
+                        "name": "Xovos TETK (24235)"},
+
                     {
-                        "code": "48",
-                        "name": "Boyavut tumani",
-                        "names": {
-                            "uz": "Boyavut tumani",
-                            "ru": "Баявутский район",
-                            "en": "Boyavut district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "24410",
+                        "name": "Shirin ShETK (24410)"},
+
                     {
-                        "code": "49",
-                        "name": "Guliston tumani",
-                        "names": {
-                            "uz": "Guliston tumani",
-                            "ru": "Гулистанский район",
-                            "en": "Gulistan district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "50",
-                        "name": "Sirdaryo tumani",
-                        "names": {
-                            "uz": "Sirdaryo tumani",
-                            "ru": "Сырдаринский район",
-                            "en": "Syrdarya district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "51",
-                        "name": "Baxt shahri",
-                        "names": {
-                            "uz": "Baxt shahri",
-                            "ru": "г. Бахт",
-                            "en": "Bakht city"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "52",
-                        "name": "Sayxunobod tumani",
-                        "names": {
-                            "uz": "Sayxunobod tumani",
-                            "ru": "Сайхунабадский район",
-                            "en": "Saykhunobod district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "53",
-                        "name": "Xovos tumani",
-                        "names": {
-                            "uz": "Xovos tumani",
-                            "ru": "Хавасский район",
-                            "en": "Khovos district "
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "54",
-                        "name": "Mirzaobod tumani",
-                        "names": {
-                            "uz": "Mirzaobod tumani",
-                            "ru": "Мирзаабадский район",
-                            "en": "Mirzaobod district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "55",
-                        "name": "Mehnatobod tumani",
-                        "names": {
-                            "uz": "Mehnatobod tumani",
-                            "ru": "Мехнатабадский район",
-                            "en": "Mehnatobod district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "226",
-                        "name": "Sardoba tumani",
-                        "names": {
-                            "uz": "Sardoba tumani",
-                            "ru": "Сардабский район",
-                            "en": "Sardoba district "
-                        },
-                        "children": {
-                            "titles": {}
-                        }
+                        "code": "24413",
+                        "name": "Yangiyer ShETK (24413)"
                     }
                 ]
             }
@@ -1038,232 +705,93 @@
                 "titles": {},
                 "areas": [
                     {
-                        "code": "88",
-                        "name": "Marg\u0027ilon shahar",
-                        "names": {
-                            "uz": "Marg\u0027ilon shahar",
-                            "ru": "г. Маргилан",
-                            "en": "Margelan city"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
+                        "code": "30203",
+                        "name": "Oltiariq TETK (30203)"
                     },
+
                     {
-                        "code": "89",
-                        "name": "Farg\u0027ona shahar",
-                        "names": {
-                            "uz": "Farg\u0027ona shahar",
-                            "ru": "г. Фергана",
-                            "en": "Fergana city "
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "30209",
+                        "name": "Bog‘dod (30209)"},
+
                     {
-                        "code": "90",
-                        "name": "Quvasoy shahar",
-                        "names": {
-                            "uz": "Quvasoy shahar",
-                            "ru": "г. Кувасай",
-                            "en": "Kuvasay city"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "30215",
+                        "name": "Beshariq TETK (30215)"},
+
                     {
-                        "code": "91",
-                        "name": "Qo\u0027qon shahar",
-                        "names": {
-                            "uz": "Qo\u0027qon shahar",
-                            "ru": "г. Коканд",
-                            "en": "Kokand city"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "30212",
+                        "name": "Buvayda TETK (30212)"},
+
                     {
-                        "code": "92",
-                        "name": "Bog\u0027dod tumani",
-                        "names": {
-                            "uz": "Bog\u0027dod tumani",
-                            "ru": "Багдадский район ",
-                            "en": "Bagdad district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "30236",
+                        "name": "Dang‘ara TETK (30236)"},
+
                     {
-                        "code": "93",
-                        "name": "Beshariq tumani",
-                        "names": {
-                            "uz": "Beshariq tumani",
-                            "ru": "Бешарикский район",
-                            "en": "Besharik district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "30402",
+                        "name": "Qirguli ETK (30402)"},
+
                     {
-                        "code": "94",
-                        "name": "Yangiqo\u0027rg\u0027on tumani",
-                        "names": {
-                            "uz": "Yangiqo\u0027rg\u0027on tumani",
-                            "ru": "Янгикурганский район",
-                            "en": "Yangikurgan district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "30403",
+                        "name": "Qirguli TETK (30403)"},
+
                     {
-                        "code": "95",
-                        "name": "Dang\u0027ara tumani",
-                        "names": {
-                            "uz": "Dang\u0027ara tumani",
-                            "ru": "Дангаринский район",
-                            "en": "Dangara district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "30405",
+                        "name": "Qo‘qon ShETK (30405)"},
+
                     {
-                        "code": "96",
-                        "name": "Yozyovon tumani",
-                        "names": {
-                            "uz": "Yozyovon tumani",
-                            "ru": "Езъеванский район",
-                            "en": "Yozyovon district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "30408",
+                        "name": "Quvasoy ShETK (30408)"},
+
                     {
-                        "code": "97",
-                        "name": "Oltiariq tumani",
-                        "names": {
-                            "uz": "Oltiariq tumani",
-                            "ru": "Алтиарикский район",
-                            "en": "Altiarik district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "30218",
+                        "name": "Quva TETK (30218)"},
+
                     {
-                        "code": "98",
-                        "name": "Oxunboboyev tumani",
-                        "names": {
-                            "uz": "Oxunboboyev tumani",
-                            "ru": "Ахунбабаевский район",
-                            "en": "Okhunboboyev district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "30206",
+                        "name": "Qo‘shtepa TETK (30206)"},
+
                     {
-                        "code": "99",
-                        "name": "Rishton tumani",
-                        "names": {
-                            "uz": "Rishton tumani",
-                            "ru": "Риштанский район",
-                            "en": "Rishton district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "30412",
+                        "name": "Marg‘ilon ShETK (30412)"},
+
                     {
-                        "code": "100",
-                        "name": "So\u0027x tumani",
-                        "names": {
-                            "uz": "So\u0027x tumani",
-                            "ru": "Сохский район",
-                            "en": "Sukh district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "30224",
+                        "name": "Rishton TETK (30224)"},
+
                     {
-                        "code": "101",
-                        "name": "Toshloq tumani",
-                        "names": {
-                            "uz": "Toshloq tumani",
-                            "ru": "Ташлакский район",
-                            "en": "Toshlok district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "30226",
+                        "name": "So‘x TETK (30226)"},
+
                     {
-                        "code": "102",
-                        "name": "Uchko\u0027prik tumani",
-                        "names": {
-                            "uz": "Uchko\u0027prik tumani",
-                            "ru": "Уч-куприкский район",
-                            "en": "Uchkuprik district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "30227",
+                        "name": "Toshloq TETK (30227)"},
+
                     {
-                        "code": "103",
-                        "name": "Farg\u0027ona tumani",
-                        "names": {
-                            "uz": "Farg\u0027ona tumani",
-                            "ru": "Ферганский район",
-                            "en": "Fergana district "
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "30230",
+                        "name": "O‘zbekiston TETK (30230)"},
+
                     {
-                        "code": "104",
-                        "name": "Furqat tumani",
-                        "names": {
-                            "uz": "Furqat tumani",
-                            "ru": "Фуркатский район",
-                            "en": "Furkat district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "30221",
+                        "name": "Uchko‘prik TETK (30221)"},
+
                     {
-                        "code": "105",
-                        "name": "O\u0027zbekiston tumani",
-                        "names": {
-                            "uz": "O\u0027zbekiston tumani",
-                            "ru": "Узбекистанский район",
-                            "en": "Uzbekistan district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "30401",
+                        "name": "Farg‘ona ShETK (30401)"},
+
                     {
-                        "code": "106",
-                        "name": "Quva tumani",
-                        "names": {
-                            "uz": "Quva tumani",
-                            "ru": "Кувынский район",
-                            "en": "Kuva district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
+                        "code": "30400",
+                        "name": "Farg‘ona Energosotish (30400)"},
+
+                    {
+                        "code": "30233",
+                        "name": "Farg‘ona TETK (30233)"},
+
+                    {
+                        "code": "30238",
+                        "name": "Furqat TETK (30238)"},
+
+                    {
+                        "code": "30242",
+                        "name": "Yozyovon TETK (30242)"
                     }
                 ]
             }
@@ -1281,232 +809,97 @@
                 "titles": {},
                 "areas": [
                     {
-                        "code": "122",
-                        "name": "Andijon shahar",
-                        "names": {
-                            "uz": "Andijon shahar",
-                            "ru": "г. Андижан",
-                            "en": "Andijon city"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
+                        "code": "03202",
+                        "name": "Oltinko‘l TETK (03202)"
                     },
+
                     {
-                        "code": "123",
-                        "name": "Andijon tumani",
-                        "names": {
-                            "uz": "Andijon tumani",
-                            "ru": "Андижанский район",
-                            "en": "Andijon district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "03403",
+                        "name": "Andijon Bobur ShETK (03403)"},
+
                     {
-                        "code": "124",
-                        "name": "Asaka shahar",
-                        "names": {
-                            "uz": "Asaka shahar",
-                            "ru": "г. Асака",
-                            "en": "Asaka city"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "03400",
+                        "name": "Andijon Energosotish (03400)"},
+
                     {
-                        "code": "125",
-                        "name": "Asaka tumani",
-                        "names": {
-                            "uz": "Asaka tumani",
-                            "ru": "Асакинский район",
-                            "en": "Asaka district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "03404",
+                        "name": "Andijon Eski ShETK (03404)"},
+
                     {
-                        "code": "126",
-                        "name": "Baliqchi tumani",
-                        "names": {
-                            "uz": "Baliqchi tumani",
-                            "ru": "Баликчинский район",
-                            "en": "Balikchi district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "03401",
+                        "name": "Andijon Yangi ShETK (03401)"},
+
                     {
-                        "code": "127",
-                        "name": "Bo\u0027z tumani",
-                        "names": {
-                            "uz": "Bo\u0027z tumani",
-                            "ru": "Бузский район",
-                            "en": "Buz district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "03203",
+                        "name": "Andijon TETK (03203)"},
+
                     {
-                        "code": "128",
-                        "name": "Buloqboshi tumani",
-                        "names": {
-                            "uz": "Buloqboshi tumani",
-                            "ru": "Булакбашинский район",
-                            "en": "Bulakbashi district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "03405",
+                        "name": "Asaka ShEKT (03405)"},
+
                     {
-                        "code": "129",
-                        "name": "Jalolquduq tumani",
-                        "names": {
-                            "uz": "Jalolquduq tumani",
-                            "ru": "Жалалкудукский район",
-                            "en": "Jalolkuduk district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "03224",
+                        "name": "Asaka TETK (03224)"},
+
                     {
-                        "code": "130",
-                        "name": "Izboskan tumani",
-                        "names": {
-                            "uz": "Izboskan tumani",
-                            "ru": "Избасканский район",
-                            "en": "Izboskan district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "03206",
+                        "name": "Baliqchi TETK (03206)"},
+
                     {
-                        "code": "131",
-                        "name": "Qo\u0027rg\u0027ontepa tumani",
-                        "names": {
-                            "uz": "Qo\u0027rg\u0027ontepa tumani",
-                            "ru": "Кургантепинский район",
-                            "en": "Kurgontepa district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "03209",
+                        "name": "Bo‘ston TETK (03209)"},
+
                     {
-                        "code": "132",
-                        "name": "Xonobod tumani",
-                        "names": {
-                            "uz": "Xonobod tumani",
-                            "ru": "Ханабадский район",
-                            "en": "Khonobod district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "03210",
+                        "name": "Buloqboshi TETK (03210)"},
+
                     {
-                        "code": "133",
-                        "name": "Qorasuv tumani",
-                        "names": {
-                            "uz": "Qorasuv tumani",
-                            "ru": "Карасувский район",
-                            "en": "Korasuv district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "03211",
+                        "name": "Jalaquduq TETK (03211)"},
+
                     {
-                        "code": "134",
-                        "name": "Marhamat tumani",
-                        "names": {
-                            "uz": "Marhamat tumani",
-                            "ru": "Мархаматский район",
-                            "en": "Markhamat district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "03214",
+                        "name": "Izboskan TETK (03214)"},
+
                     {
-                        "code": "135",
-                        "name": "Oltinko\u0027l tumani",
-                        "names": {
-                            "uz": "Oltinko\u0027l tumani",
-                            "ru": "Олтинкулский район",
-                            "en": "Altinkul district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "03204",
+                        "name": "Kuyganyor TETK (03204)"},
+
                     {
-                        "code": "136",
-                        "name": "Paxtaobod tumani",
-                        "names": {
-                            "uz": "Paxtaobod tumani",
-                            "ru": "Пахтабадский район",
-                            "en": "Pakhtaobod district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "03220",
+                        "name": "Qo‘rg‘ontepa TETK (03220)"},
+
                     {
-                        "code": "137",
-                        "name": "Ulug\u0027nor tumani",
-                        "names": {
-                            "uz": "Ulug\u0027nor tumani",
-                            "ru": "Улугнарский район",
-                            "en": "Ulugnor district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "03227",
+                        "name": "Marxamat TETK (03227)"},
+
                     {
-                        "code": "138",
-                        "name": "Xo\u0027jaobod tumani",
-                        "names": {
-                            "uz": "Xo\u0027jaobod tumani",
-                            "ru": "Хужабадский район",
-                            "en": "Khajabod district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "03232",
+                        "name": "Paxtaobod TETK (03232)"},
+
                     {
-                        "code": "139",
-                        "name": "Shaxrixon tumani",
-                        "names": {
-                            "uz": "Shaxrixon tumani",
-                            "ru": "Шахриханский район",
-                            "en": "Shakhrikhon district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "03217",
+                        "name": "Ulug‘nor TETK (03217)"},
+
                     {
-                        "code": "121",
-                        "name": "Buloqboshi tumani-2",
-                        "names": {
-                            "uz": "Buloqboshi tumani-2",
-                            "ru": "Булокбошинский район-2",
-                            "en": "Bulakbashi district-2"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
+                        "code": "03408",
+                        "name": "Xonobod ShETK (03408)"},
+
+                    {
+                        "code": "03236",
+                        "name": "Xo‘jaobod TETK (03236)"},
+
+                    {
+                        "code": "03207",
+                        "name": "Chinobod TETK (03207)"},
+
+                    {
+                        "code": "03231",
+                        "name": "Shahrixon ShETK (03231)"},
+
+                    {
+                        "code": "03230",
+                        "name": "Shahrixon TETK (03230)"
                     }
                 ]
             }
@@ -1524,172 +917,69 @@
                 "titles": {},
                 "areas": [
                     {
-                        "code": "108",
-                        "name": "Namangan shahar",
-                        "names": {
-                            "uz": "Namangan shahar",
-                            "ru": "г. Наманган",
-                            "en": "Namangan city"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
+                        "code": "14207",
+                        "name": "Kosonsoy TETK (14207)"
                     },
+
                     {
-                        "code": "109",
-                        "name": "Namangan shahar (2 baza)",
-                        "names": {
-                            "uz": "Namangan shahar (2 baza)",
-                            "ru": "г. Наманган (2 база)",
-                            "en": "Namangan city (2nd)"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "14204",
+                        "name": "Mingbuloq TETK (14204)"},
+
                     {
-                        "code": "110",
-                        "name": "Kosonsoy tumani",
-                        "names": {
-                            "uz": "Kosonsoy tumani",
-                            "ru": "Касансайский район",
-                            "en": "Kosonsoy district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "14405",
+                        "name": "Namangan Istiqbol ShETK (14405)"},
+
                     {
-                        "code": "111",
-                        "name": "Norin tumani",
-                        "names": {
-                            "uz": "Norin tumani",
-                            "ru": "Наринский район",
-                            "en": "Narin district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "14401",
+                        "name": "Namangan sh. Markaz-2 TETK (14401)"},
+
                     {
-                        "code": "112",
-                        "name": "Uchqo\u0027rg\u0027on tumani",
-                        "names": {
-                            "uz": "Uchqo\u0027rg\u0027on tumani",
-                            "ru": "Учкурганский район",
-                            "en": "Uchkurgan district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "14402",
+                        "name": "Namangan Do‘stlik ShETK (14402)"},
+
                     {
-                        "code": "113",
-                        "name": "Chortoq tumani",
-                        "names": {
-                            "uz": "Chortoq tumani",
-                            "ru": "Чартакский район ",
-                            "en": "Chortak district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "14403",
+                        "name": "Namangan Energosotish (14403)"},
+
                     {
-                        "code": "114",
-                        "name": "Chust tumani",
-                        "names": {
-                            "uz": "Chust tumani",
-                            "ru": "Чустский район",
-                            "en": "Chust district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "14404",
+                        "name": "Namangan Markaz ShETK (14404)"},
+
                     {
-                        "code": "115",
-                        "name": "To\u0027raqo\u0027rg\u0027on tumani",
-                        "names": {
-                            "uz": "To\u0027raqo\u0027rg\u0027on tumani",
-                            "ru": "Туракурганский район",
-                            "en": "Turakurgan district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "14212",
+                        "name": "Namangan TETK (14212)"},
+
                     {
-                        "code": "116",
-                        "name": "Pop tumani",
-                        "names": {
-                            "uz": "Pop tumani",
-                            "ru": "Папский район",
-                            "en": "Pop district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "14216",
+                        "name": "Norin TETK (14216)"},
+
                     {
-                        "code": "117",
-                        "name": "Mingbuloq tumani",
-                        "names": {
-                            "uz": "Mingbuloq tumani",
-                            "ru": "Мингбулакский район",
-                            "en": "Mingbulak district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "14219",
+                        "name": "Pop TETK (14219)"},
+
                     {
-                        "code": "118",
-                        "name": "Namangan tumani",
-                        "names": {
-                            "uz": "Namangan tumani",
-                            "ru": "Наманганский район",
-                            "en": "Namangan district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "14224",
+                        "name": "To‘raqo‘rg‘on TETK (14224)"},
+
                     {
-                        "code": "119",
-                        "name": "Uychi tumani",
-                        "names": {
-                            "uz": "Uychi tumani",
-                            "ru": "Уйчинский район",
-                            "en": "Uychi district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "14229",
+                        "name": "Uychi TETK (14229)"},
+
                     {
-                        "code": "120",
-                        "name": "Yangiqo\u0027rg\u0027on tumani",
-                        "names": {
-                            "uz": "Yangiqo\u0027rg\u0027on tumani",
-                            "ru": "Янгикурганский район",
-                            "en": "Yangikurgan district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "14234",
+                        "name": "Uchqo‘rg‘on TETK (14234)"},
+
                     {
-                        "code": "233",
-                        "name": "Yangi Namangan tumani",
-                        "names": {
-                            "uz": "Yangi Namangan tumani",
-                            "ru": "Янги Наманганский район",
-                            "en": "Yangi Namangan district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
+                        "code": "14236",
+                        "name": "Chortoq TETK (14236)"},
+
+                    {
+                        "code": "14237",
+                        "name": "Chust TETK (14237)"},
+
+                    {
+                        "code": "14242",
+                        "name": "Yangiqo‘rg‘on TETK (14242)"
                     }
                 ]
             }
@@ -1707,184 +997,81 @@
                 "titles": {},
                 "areas": [
                     {
-                        "code": "141",
-                        "name": "Qarshi shahar",
-                        "names": {
-                            "uz": "Qarshi shahar",
-                            "ru": "г. Карши",
-                            "en": "Karshi city"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
+                        "code": "10231",
+                        "name": "Baxoriston TETK (10231)"
                     },
+
                     {
-                        "code": "142",
-                        "name": "Shaxrisabz tumani",
-                        "names": {
-                            "uz": "Shaxrisabz tumani",
-                            "ru": "Шахрисабзский район",
-                            "en": "Shakhrisabz district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "10207",
+                        "name": "G‘uzor TETK (10207)"},
+
                     {
-                        "code": "143",
-                        "name": "Kitob tumani",
-                        "names": {
-                            "uz": "Kitob tumani",
-                            "ru": "Китабский район ",
-                            "en": "Kitob district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "10212",
+                        "name": "Dehqonobod TETK (10212)"},
+
                     {
-                        "code": "144",
-                        "name": "Yakkabog\u0027 tumani",
-                        "names": {
-                            "uz": "Yakkabog\u0027 tumani",
-                            "ru": "Яккабагский район ",
-                            "en": "Yakkabog district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "10220",
+                        "name": "Qamashi TETK (10220)"},
+
                     {
-                        "code": "145",
-                        "name": "Chiroqchi tumani",
-                        "names": {
-                            "uz": "Chiroqchi tumani",
-                            "ru": "Чиракчинский район",
-                            "en": "Chirokchi district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "10401",
+                        "name": "Qarshi ShETK (10401)"},
+
                     {
-                        "code": "146",
-                        "name": "Qamashi tumani",
-                        "names": {
-                            "uz": "Qamashi tumani",
-                            "ru": "Камашинский район",
-                            "en": "Kamashi district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "10500",
+                        "name": "Qarshi Energosotish (10500)"},
+
                     {
-                        "code": "147",
-                        "name": "G\u0027uzor tumani",
-                        "names": {
-                            "uz": "G\u0027uzor tumani",
-                            "ru": "Гузарский район",
-                            "en": "Guzar district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "10400",
+                        "name": "Qarshi Energosotish (10400)"},
+
                     {
-                        "code": "148",
-                        "name": "Qarshi tumani",
-                        "names": {
-                            "uz": "Qarshi tumani",
-                            "ru": "Каршинский район",
-                            "en": "Karshi district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "10224",
+                        "name": "Qarshi TETK (10224)"},
+
                     {
-                        "code": "149",
-                        "name": "Nishon tumani",
-                        "names": {
-                            "uz": "Nishon tumani",
-                            "ru": "Нишанский район ",
-                            "en": "Nishan district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "10229",
+                        "name": "Koson TETK (10229)"},
+
                     {
-                        "code": "150",
-                        "name": "Koson tumani",
-                        "names": {
-                            "uz": "Koson tumani",
-                            "ru": "Касанский район ",
-                            "en": "Koson district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "10237",
+                        "name": "Kasbi TETK (10237)"},
+
                     {
-                        "code": "151",
-                        "name": "Kasbi tumani",
-                        "names": {
-                            "uz": "Kasbi tumani",
-                            "ru": "Касбинский район",
-                            "en": "Kasbi district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "10232",
+                        "name": "Kitob TETK (10232)"},
+
                     {
-                        "code": "152",
-                        "name": "Mirishkor tumani",
-                        "names": {
-                            "uz": "Mirishkor tumani",
-                            "ru": "Миришкарский район",
-                            "en": "Mirishkar district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "10233",
+                        "name": "Mirishkor TETK (10233)"},
+
                     {
-                        "code": "153",
-                        "name": "Muborak tumani",
-                        "names": {
-                            "uz": "Muborak tumani",
-                            "ru": "Мубаракский район",
-                            "en": "Mubarak district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "10234",
+                        "name": "Muborak TETK (10234)"},
+
                     {
-                        "code": "154",
-                        "name": "Dehqonobod tumani",
-                        "names": {
-                            "uz": "Dehqonobod tumani",
-                            "ru": "Дехканабадский район",
-                            "en": "Dekhkanabad district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "10235",
+                        "name": "Nishon TETK (10235)"},
+
                     {
-                        "code": "155",
-                        "name": "Shahrisabz shahar\r\n",
-                        "names": {
-                            "uz": "Shahrisabz shahar\r\n",
-                            "ru": "г.Шаҳрисабз\r\n",
-                            "en": "Shakhrisabz city\r\n"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
+                        "code": "10240",
+                        "name": "Ko‘kdala TETK (10240)"},
+
+                    {
+                        "code": "10242",
+                        "name": "Chiroqchi TETK (10242)"},
+
+                    {
+                        "code": "10246",
+                        "name": "Shahrisabz ShETK (10246)"},
+
+                    {
+                        "code": "10245",
+                        "name": "Shahrisabz TETK (10245)"},
+
+                    {
+                        "code": "10250",
+                        "name": "Yakkabog‘ TETK (10250)"
                     }
                 ]
             }
@@ -1902,196 +1089,73 @@
                 "titles": {},
                 "areas": [
                     {
-                        "code": "156",
-                        "name": "Angor tumani",
-                        "names": {
-                            "uz": "Angor tumani",
-                            "ru": "Ангарский район",
-                            "en": "Angar district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
+                        "code": "22201",
+                        "name": "Oltinsoy TETK (22201)"
                     },
+
                     {
-                        "code": "157",
-                        "name": "Boysun tumani",
-                        "names": {
-                            "uz": "Boysun tumani",
-                            "ru": "Байсунский район ",
-                            "en": "Baysun district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "22202",
+                        "name": "Angor TETK (22202)"},
+
                     {
-                        "code": "158",
-                        "name": "Bandixon tumani",
-                        "names": {
-                            "uz": "Bandixon tumani",
-                            "ru": "Бандыханский район",
-                            "en": "Bandikhon district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "22204",
+                        "name": "Boysun TETK (22204)"},
+
                     {
-                        "code": "159",
-                        "name": "Denov shahar",
-                        "names": {
-                            "uz": "Denov shahar",
-                            "ru": "г. Денав",
-                            "en": "Denov district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "22206",
+                        "name": "Bandixon TETK (22206)"},
+
                     {
-                        "code": "160",
-                        "name": "Denov tumani",
-                        "names": {
-                            "uz": "Denov tumani",
-                            "ru": "Денавский район ",
-                            "en": "Denov district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "22211",
+                        "name": "Denov ShETK (22211)"},
+
                     {
-                        "code": "161",
-                        "name": "Jarqo\u0027rg\u0027on tumani",
-                        "names": {
-                            "uz": "Jarqo\u0027rg\u0027on tumani",
-                            "ru": "Жаркурганский район",
-                            "en": "Jarakurgan district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "22210",
+                        "name": "Denov TETK (22210)"},
+
                     {
-                        "code": "162",
-                        "name": "Qiziriq tumani",
-                        "names": {
-                            "uz": "Qiziriq tumani",
-                            "ru": "Кизирикский район",
-                            "en": "Kizirik district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "22212",
+                        "name": "Jarqo‘rg‘on TETK (22212)"},
+
                     {
-                        "code": "163",
-                        "name": "Qumqo\u0027rg\u0027on tumani",
-                        "names": {
-                            "uz": "Qumqo\u0027rg\u0027on tumani",
-                            "ru": "Кумкурганский район",
-                            "en": "Kumkurgan district "
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "22215",
+                        "name": "Qiziriq TETK (22215)"},
+
                     {
-                        "code": "164",
-                        "name": "Muzrabod tumani",
-                        "names": {
-                            "uz": "Muzrabod tumani",
-                            "ru": "Музрабадский район",
-                            "en": "Muzrabod district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "22214",
+                        "name": "Qo‘mqo‘rg‘on TETK (22214)"},
+
                     {
-                        "code": "165",
-                        "name": "Oltinsoy tumani",
-                        "names": {
-                            "uz": "Oltinsoy tumani",
-                            "ru": "Алтинсайский район",
-                            "en": "Altinsay district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "22207",
+                        "name": "Muzrabod TETK (22207)"},
+
                     {
-                        "code": "166",
-                        "name": "Sariosiyo tumani",
-                        "names": {
-                            "uz": "Sariosiyo tumani",
-                            "ru": "Сариасийский район",
-                            "en": "Sariasiya district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "22217",
+                        "name": "Sariosiyo TETK (22217)"},
+
                     {
-                        "code": "167",
-                        "name": "Temiz shahar",
-                        "names": {
-                            "uz": "Temiz shahar",
-                            "ru": "г. Термез",
-                            "en": "Termiz city"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "22400",
+                        "name": "Surxondaryo Energosotish (22400)"},
+
                     {
-                        "code": "168",
-                        "name": "Termiz tumani",
-                        "names": {
-                            "uz": "Termiz tumani",
-                            "ru": "Термезский район",
-                            "en": "Termiz district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "22401",
+                        "name": "Termez ShETK (22401)"},
+
                     {
-                        "code": "169",
-                        "name": "Sherobod tumani",
-                        "names": {
-                            "uz": "Sherobod tumani",
-                            "ru": "Шерабадский район ",
-                            "en": "Sherabad district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "22220",
+                        "name": "Termez TETK (22220)"},
+
                     {
-                        "code": "170",
-                        "name": "Sho\u0027rchi tumani",
-                        "names": {
-                            "uz": "Sho\u0027rchi tumani",
-                            "ru": "Шурчинский район  ",
-                            "en": "Shurchi district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "22221",
+                        "name": "Uzun TETK (22221)"},
+
                     {
-                        "code": "171",
-                        "name": "Uzun tumani",
-                        "names": {
-                            "uz": "Uzun tumani",
-                            "ru": "Узунский район",
-                            "en": "Uzun district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
+                        "code": "22223",
+                        "name": "Sherobod TETK (22223)"},
+
+                    {
+                        "code": "22226",
+                        "name": "Sho‘rchi TETK (22226)"
                     }
                 ]
             }
@@ -2109,148 +1173,61 @@
                 "titles": {},
                 "areas": [
                     {
-                        "code": "172",
-                        "name": "Buxoro shahri",
-                        "names": {
-                            "uz": "Buxoro shahri",
-                            "ru": "г. Бухара",
-                            "en": "Bukhara city"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
+                        "code": "06204",
+                        "name": "Olot TETK (06204)"
                     },
+
                     {
-                        "code": "174",
-                        "name": "Romiton tumani",
-                        "names": {
-                            "uz": "Romiton tumani",
-                            "ru": "Ромитанский район ",
-                            "en": "Ramiton district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "06401",
+                        "name": "Buxoro ShETK (06401)"},
+
                     {
-                        "code": "175",
-                        "name": "Kogon tumani",
-                        "names": {
-                            "uz": "Kogon tumani",
-                            "ru": "Каганский район ",
-                            "en": "Kagon district "
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "06400",
+                        "name": "Buxoro Energosotish (06400)"},
+
                     {
-                        "code": "176",
-                        "name": "G\u0027ijduvon tumani",
-                        "names": {
-                            "uz": "G\u0027ijduvon tumani",
-                            "ru": "Гиждуванский район ",
-                            "en": "Gijduvan district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "06500",
+                        "name": "Buxoro Energosotish (06500)"},
+
                     {
-                        "code": "177",
-                        "name": "Buxoro tumani",
-                        "names": {
-                            "uz": "Buxoro tumani",
-                            "ru": "Бухарский район ",
-                            "en": "Bukhara district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "06207",
+                        "name": "Buxoro TETK (06207)"},
+
                     {
-                        "code": "178",
-                        "name": "Jondor tumani",
-                        "names": {
-                            "uz": "Jondor tumani",
-                            "ru": "Жондорский район",
-                            "en": "Jandar district "
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "06212",
+                        "name": "Vobkent TETK (06212)"},
+
                     {
-                        "code": "179",
-                        "name": "Vobkent tumani",
-                        "names": {
-                            "uz": "Vobkent tumani",
-                            "ru": "Вобкентский район",
-                            "en": "Vobkent district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "06215",
+                        "name": "G‘ijduvon TETK (06215)"},
+
                     {
-                        "code": "180",
-                        "name": "Peshku tumani",
-                        "names": {
-                            "uz": "Peshku tumani",
-                            "ru": "Пешкунский район",
-                            "en": "Peshku district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "06246",
+                        "name": "Jondor TETK (06246)"},
+
                     {
-                        "code": "181",
-                        "name": "Shofirkon tumani",
-                        "names": {
-                            "uz": "Shofirkon tumani",
-                            "ru": "Шафирканский район",
-                            "en": "Shafirkan district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "06219",
+                        "name": "Kogon TETK (06219)"},
+
                     {
-                        "code": "182",
-                        "name": "Qorako\u0027l tumani",
-                        "names": {
-                            "uz": "Qorako\u0027l tumani",
-                            "ru": "Каракулский район",
-                            "en": "Karakul district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "06230",
+                        "name": "Qorako‘l TETK (06230)"},
+
                     {
-                        "code": "183",
-                        "name": "Olot tumani",
-                        "names": {
-                            "uz": "Olot tumani",
-                            "ru": "Олотский район",
-                            "en": "Alat district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "06232",
+                        "name": "Qorovulbozor TETK (06232)"},
+
                     {
-                        "code": "184",
-                        "name": "Qorovulbozor tumani",
-                        "names": {
-                            "uz": "Qorovulbozor tumani",
-                            "ru": "Каравулбазарский район",
-                            "en": "Karavulbazar district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
+                        "code": "06240",
+                        "name": "Peshku TETK (06240)"},
+
+                    {
+                        "code": "06242",
+                        "name": "Romitan TETK (06242)"},
+
+                    {
+                        "code": "06258",
+                        "name": "Shofirkon TETK (06258)"
                     }
                 ]
             }
@@ -2268,136 +1245,53 @@
                 "titles": {},
                 "areas": [
                     {
-                        "code": "186",
-                        "name": "Zarafshon shahar",
-                        "names": {
-                            "uz": "Zarafshon shahar",
-                            "ru": "г. Зарафшан",
-                            "en": "Zarafshan city"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
+                        "code": "12408",
+                        "name": "Zarafshon ShETK (12408)"
                     },
+
                     {
-                        "code": "187",
-                        "name": "Karmana tumani",
-                        "names": {
-                            "uz": "Karmana tumani",
-                            "ru": "Карманинский район",
-                            "en": "Karmana district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "12211",
+                        "name": "Konimex TETK (12211)"},
+
                     {
-                        "code": "188",
-                        "name": "Qiziltepa tumani",
-                        "names": {
-                            "uz": "Qiziltepa tumani",
-                            "ru": "Кизилтепинский район",
-                            "en": "Kiziltepa district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "12234",
+                        "name": "Karmana TETK (12234)"},
+
                     {
-                        "code": "189",
-                        "name": "Konimeh tumani",
-                        "names": {
-                            "uz": "Konimeh tumani",
-                            "ru": "Канимехский район",
-                            "en": "Konimekh district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "12216",
+                        "name": "Qiziltepa TETK (12216)"},
+
                     {
-                        "code": "190",
-                        "name": "Navoiy shahar",
-                        "names": {
-                            "uz": "Navoiy shahar",
-                            "ru": "г. Наваи",
-                            "en": "Navoi city"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "12230",
+                        "name": "Navbahor TETK (12230)"},
+
                     {
-                        "code": "191",
-                        "name": "Navbahor tumani",
-                        "names": {
-                            "uz": "Navbahor tumani",
-                            "ru": "Навбахарский район ",
-                            "en": "Navbakhar district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "12401",
+                        "name": "Navoiy ShETK (12401)"},
+
                     {
-                        "code": "192",
-                        "name": "Nurota tumani",
-                        "names": {
-                            "uz": "Nurota tumani",
-                            "ru": "Нуротинский район",
-                            "en": "Nurata district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "12402",
+                        "name": "Navoiy Energosotish (12402)"},
+
                     {
-                        "code": "193",
-                        "name": "Xatirchi tumani",
-                        "names": {
-                            "uz": "Xatirchi tumani",
-                            "ru": "Хатирчинский район",
-                            "en": "Khatirchi district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "12400",
+                        "name": "Navoiy Energosotish (12400)"},
+
                     {
-                        "code": "229",
-                        "name": "Uchquduq tumani\r\n",
-                        "names": {
-                            "uz": "Uchquduq tumani\r\n",
-                            "ru": "Учкудукский район\r\n",
-                            "en": "Uchkuduk district\r\n"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "12238",
+                        "name": "Nurota TETK (12238)"},
+
                     {
-                        "code": "185",
-                        "name": "G\u0027ozg\u0027on shahar\r\n",
-                        "names": {
-                            "uz": "G\u0027ozg\u0027on shahar\r\n",
-                            "ru": "г.Гозгон\r\n",
-                            "en": "Gozgon city\r\n"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "12244",
+                        "name": "Tomdi TETK (12244)"},
+
                     {
-                        "code": "194",
-                        "name": "Tomdi tumani\r\n",
-                        "names": {
-                            "uz": "Tomdi tumani\r\n",
-                            "ru": "Тамдынский район\r\n",
-                            "en": "Tamdi district\r\n"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
+                        "code": "12248",
+                        "name": "Uchquduq TETK (12248)"},
+
+                    {
+                        "code": "12251",
+                        "name": "Xatirchi TETK (12251)"
                     }
                 ]
             }
@@ -2413,222 +1307,78 @@
             "children": {
                 "title": "Tuman",
                 "titles": {},
-                "areas": [
+                "areas": [{
+                    "code": "35204",
+                    "name": "Amudararyo TETK (35204)"
+                },
+
                     {
-                        "code": "208",
-                        "name": "Nukus shahar",
-                        "names": {
-                            "uz": "Nukus shahar",
-                            "ru": "г. Нукус",
-                            "en": "Nukus city"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "35207",
+                        "name": "Beruniy TETK (35207)"},
+
                     {
-                        "code": "209",
-                        "name": "Nukus tumani",
-                        "names": {
-                            "uz": "Nukus tumani",
-                            "ru": "Нукусский район",
-                            "en": "Nukus district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "35214",
+                        "name": "Bo‘zatov TETK (35214)"},
+
                     {
-                        "code": "210",
-                        "name": "Kegeyli tumani",
-                        "names": {
-                            "uz": "Kegeyli tumani",
-                            "ru": "Кегеилинский район",
-                            "en": "Kegeyli district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "35218",
+                        "name": "Qonliko‘l TETK (35218)"},
+
                     {
-                        "code": "211",
-                        "name": "Chimboy tumani",
-                        "names": {
-                            "uz": "Chimboy tumani",
-                            "ru": "Чимбайский район",
-                            "en": "Chimboy district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "35211",
+                        "name": "Qorao‘zak TETK (35211)"},
+
                     {
-                        "code": "212",
-                        "name": "Qorauzoq tumani",
-                        "names": {
-                            "uz": "Qorauzoq tumani",
-                            "ru": "Караузякский район",
-                            "en": "Karauzak district "
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "35212",
+                        "name": "Kegeyli TETK (35212)"},
+
                     {
-                        "code": "213",
-                        "name": "Taxtako\u0027pir tumani",
-                        "names": {
-                            "uz": "Taxtako\u0027pir tumani",
-                            "ru": "Тахтакупирский район",
-                            "en": "Takhtakupir district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "35215",
+                        "name": "Qo‘ng‘irot TETK (35215)"},
+
                     {
-                        "code": "214",
-                        "name": "Xo\u0027jayli tumani",
-                        "names": {
-                            "uz": "Xo\u0027jayli tumani",
-                            "ru": "Хужайлинский район",
-                            "en": "Khujayli district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "35222",
+                        "name": "Mo‘ynoq TETK (35222)"},
+
                     {
-                        "code": "215",
-                        "name": "Shumanay tumani",
-                        "names": {
-                            "uz": "Shumanay tumani",
-                            "ru": "Шуманайский район",
-                            "en": "Shumanay district "
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "35401",
+                        "name": "Nukus ShETK (35401)"},
+
                     {
-                        "code": "216",
-                        "name": "Kanliko\u0027l tumani",
-                        "names": {
-                            "uz": "Kanliko\u0027l tumani",
-                            "ru": "Канлыкульский район",
-                            "en": "Kanlikul district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "35225",
+                        "name": "Nukus TETK (35225)"},
+
                     {
-                        "code": "217",
-                        "name": "Taxiatosh tumani",
-                        "names": {
-                            "uz": "Taxiatosh tumani",
-                            "ru": "Тахиаташский район",
-                            "en": "Takhiatash district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "35410",
+                        "name": "Taxiatosh ShETK (35410)"},
+
                     {
-                        "code": "218",
-                        "name": "Qo\u0027ng\u0027irot tumani",
-                        "names": {
-                            "uz": "Qo\u0027ng\u0027irot tumani",
-                            "ru": "Кунградский район",
-                            "en": "Kungirot district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "35411",
+                        "name": "Taxiatosh TETK (35411)"},
+
                     {
-                        "code": "219",
-                        "name": "Mo\u0027ynoq tumani",
-                        "names": {
-                            "uz": "Mo\u0027ynoq tumani",
-                            "ru": "Муйнакский район",
-                            "en": "Muynak district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "35230",
+                        "name": "Taxtako‘pir TETK (35230)"},
+
                     {
-                        "code": "220",
-                        "name": "Amudaryo tumani",
-                        "names": {
-                            "uz": "Amudaryo tumani",
-                            "ru": "Амударьинский район",
-                            "en": "Amudarya district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "35233",
+                        "name": "To‘rtko‘l TETK (35233)"},
+
                     {
-                        "code": "221",
-                        "name": "To\u0027rtko\u0027l tumani",
-                        "names": {
-                            "uz": "To\u0027rtko\u0027l tumani",
-                            "ru": "Турткульский район",
-                            "en": "Turtkul district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "35236",
+                        "name": "Xo‘jayli TETK (35236)"},
+
                     {
-                        "code": "222",
-                        "name": "Ellikqal\u0027a tumani",
-                        "names": {
-                            "uz": "Ellikqal\u0027a tumani",
-                            "ru": "Элликкалинский район",
-                            "en": "Ellikkala district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "35240",
+                        "name": "Chimboy TETK (35240)"},
+
                     {
-                        "code": "223",
-                        "name": "Beruniy tumani",
-                        "names": {
-                            "uz": "Beruniy tumani",
-                            "ru": "Берунийский район",
-                            "en": "Beruniy district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "35243",
+                        "name": "Shumanay TETK (35243)"},
+
                     {
-                        "code": "224",
-                        "name": "Bo\u0027zatov tumani",
-                        "names": {
-                            "uz": "Bo\u0027zatov tumani",
-                            "ru": "Бозатауский район",
-                            "en": "Bozataw district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "225",
-                        "name": "Xalqobod shahri",
-                        "names": {
-                            "uz": "Xalqobod shahri",
-                            "ru": "г.Халкабад",
-                            "en": "Khalkabad city"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
+                        "code": "35250",
+                        "name": "Ellikqalʼa TETK (35250)"
                     }
                 ]
             }
@@ -2646,172 +1396,61 @@
                 "titles": {},
                 "areas": [
                     {
-                        "code": "195",
-                        "name": "Urganch shahar",
-                        "names": {
-                            "uz": "Urganch shahar",
-                            "ru": "г. Ургенч",
-                            "en": "Urgench city"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
+                        "code": "33204",
+                        "name": "Bog‘ot TETK (33204)"
                     },
+
                     {
-                        "code": "196",
-                        "name": "Urganch tumani",
-                        "names": {
-                            "uz": "Urganch tumani",
-                            "ru": "Ургенчский район",
-                            "en": "Urgench district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "33208",
+                        "name": "Gurlan TETK (33208)"},
+
                     {
-                        "code": "197",
-                        "name": "Xiva tumani",
-                        "names": {
-                            "uz": "Xiva tumani",
-                            "ru": "Хивинский район",
-                            "en": "Khiva district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "33212",
+                        "name": "Qo‘shko‘pir TETK (33212)"},
+
                     {
-                        "code": "198",
-                        "name": "Xonqa tumani",
-                        "names": {
-                            "uz": "Xonqa tumani",
-                            "ru": "Ханкайский район",
-                            "en": "Khonka district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "33402",
+                        "name": "Tuproqqalʼa TETK (33402)"},
+
                     {
-                        "code": "199",
-                        "name": "Shovot tumani",
-                        "names": {
-                            "uz": "Shovot tumani",
-                            "ru": "Шаватский район",
-                            "en": "Shavat district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "33401",
+                        "name": "Urganch ShETK (33401)"},
+
                     {
-                        "code": "200",
-                        "name": "Bog\u0027ot tumani",
-                        "names": {
-                            "uz": "Bog\u0027ot tumani",
-                            "ru": "Багатский район",
-                            "en": "Bagat district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "33217",
+                        "name": "Ugranch TETK (33217)"},
+
                     {
-                        "code": "201",
-                        "name": "Yangiariq tumani",
-                        "names": {
-                            "uz": "Yangiariq tumani",
-                            "ru": "Янгиарикский район",
-                            "en": "Yangiarik district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
+                        "code": "33220",
+                        "name": "Xazorasp TETK (33220)"},
+
+                    {
+                        "code": "33223",
+                        "name": "Xonqa TETK (33223)"},
+
+                    {
+                        "code": "33406",
+                        "name": "Xiva ShETK (33406)"},
+
+                    {
+                        "code": "33226",
+                        "name": "Xiva TETK (33226)"},
+
+                    {
+                        "code": "33400",
+                        "name": "Xorazm Energosotish (33400)"},
+
+                    {
+                        "code": "33230",
+                        "name": "Shovot TETK (33230)"},
+
+                    {
+                        "code": "33233",
+                        "name": "Yangiariq TETK (33233)"},
+
                     {
                         "code": "33236",
-                        "name": "Yangibozor tumani",
-                        "names": {
-                            "uz": "Yangibozor tumani",
-                            "ru": "Янгибазарский район",
-                            "en": "Yangibazar district "
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "203",
-                        "name": "Gurlan tumani",
-                        "names": {
-                            "uz": "Gurlan tumani",
-                            "ru": "Гурланский район",
-                            "en": "Gurlan district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "204",
-                        "name": "Qo\u0027shko\u0027pir tumani",
-                        "names": {
-                            "uz": "Qo\u0027shko\u0027pir tumani",
-                            "ru": "Кушкупирский район",
-                            "en": "Kushkupir district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "205",
-                        "name": "Xazorasp tumani",
-                        "names": {
-                            "uz": "Xazorasp tumani",
-                            "ru": "Хазараспский район",
-                            "en": "Khazarasp district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "206",
-                        "name": "Pitnak tumani",
-                        "names": {
-                            "uz": "Pitnak tumani",
-                            "ru": "Питнакский район",
-                            "en": "Pitnak district"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "207",
-                        "name": "Xiva shahar\r\n",
-                        "names": {
-                            "uz": "Xiva shahar\r\n",
-                            "ru": "г.Хива\r\n",
-                            "en": "Khiva city\r\n"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "230",
-                        "name": "Tuproqqal\u0027a tumani\r\n",
-                        "names": {
-                            "uz": "Tuproqqal\u0027a tumani\r\n",
-                            "ru": "Тупроккалинский район\r\n",
-                            "en": "Tuprokkala district\r\n"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
+                        "name": "Yangibozor TETK (33236)"
                     }
                 ]
             }
