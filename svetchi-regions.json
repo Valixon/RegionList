@@ -1,0 +1,2832 @@
+{
+    "title": "Hudud",
+    "titles": {},
+    "areas": [
+        {
+            "code": "1",
+            "name": "Toshkent shahri",
+            "names": {
+                "uz": "Toshkent shahri",
+                "ru": "г. Ташкент",
+                "en": "Tashkent city"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "3",
+                        "name": "Mirobod tumani",
+                        "names": {
+                            "uz": "Mirobod tumani",
+                            "ru": "Мирободский район",
+                            "en": "Mirobod district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "4",
+                        "name": "Mirzo Ulug\u0027bek tumani",
+                        "names": {
+                            "uz": "Mirzo Ulug\u0027bek tumani",
+                            "ru": "М. Улугбекский район",
+                            "en": "Mirzo Ulugbek district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "5",
+                        "name": "Yakkasaroy tumani",
+                        "names": {
+                            "uz": "Yakkasaroy tumani",
+                            "ru": "Яккасарайский район",
+                            "en": "Yakkasaroy district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "6",
+                        "name": "Olmazor tumani",
+                        "names": {
+                            "uz": "Olmazor tumani",
+                            "ru": "Алмазарский район",
+                            "en": "Almazar district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "7",
+                        "name": "Yunusobod tumani",
+                        "names": {
+                            "uz": "Yunusobod tumani",
+                            "ru": "Юнусабадский район",
+                            "en": "Yunusobod district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "8",
+                        "name": "Chilonzor tumani",
+                        "names": {
+                            "uz": "Chilonzor tumani",
+                            "ru": "Чиланзарский район",
+                            "en": "Chilonzor district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "9",
+                        "name": "Uchtepa tumani",
+                        "names": {
+                            "uz": "Uchtepa tumani",
+                            "ru": "Учтепинский район",
+                            "en": "Uchtepa district "
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "10",
+                        "name": "Sergeli tumani",
+                        "names": {
+                            "uz": "Sergeli tumani",
+                            "ru": "Сергелийский район",
+                            "en": "Sergeli district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "11",
+                        "name": "Yashnobod tumani",
+                        "names": {
+                            "uz": "Yashnobod tumani",
+                            "ru": "Яшнабадский район",
+                            "en": "Yashnobod district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "12",
+                        "name": "Shayxontohur tumani",
+                        "names": {
+                            "uz": "Shayxontohur tumani",
+                            "ru": "Шайхантаурский район",
+                            "en": "Shakhontakhur district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "13",
+                        "name": "Bektemir tumani",
+                        "names": {
+                            "uz": "Bektemir tumani",
+                            "ru": "Бектемирский район",
+                            "en": "Bektemir district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "231",
+                        "name": "Yangihayot tumani",
+                        "names": {
+                            "uz": "Yangihayot tumani",
+                            "ru": "Янгихаётский район",
+                            "en": "Yangikhayot district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "2",
+            "name": "Toshkent viloyati",
+            "names": {
+                "uz": "Toshkent viloyati",
+                "ru": "Ташкентская область",
+                "en": "Tashkent region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "23",
+                        "name": "Olmaliq tumani",
+                        "names": {
+                            "uz": "Olmaliq tumani",
+                            "ru": "Алмалыкский район",
+                            "en": "Almalik district "
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "24",
+                        "name": "Angren tumani",
+                        "names": {
+                            "uz": "Angren tumani",
+                            "ru": "Ангренский район",
+                            "en": "Angren district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "25",
+                        "name": "Ohangaron tumani",
+                        "names": {
+                            "uz": "Ohangaron tumani",
+                            "ru": "Ахангаранский район",
+                            "en": "Ahangaron district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "26",
+                        "name": "Oqqo\u0027rg\u0027on tumani",
+                        "names": {
+                            "uz": "Oqqo\u0027rg\u0027on tumani",
+                            "ru": "Аккурганский район",
+                            "en": "Akkurgan district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27",
+                        "name": "Bekobod shahar",
+                        "names": {
+                            "uz": "Bekobod shahar",
+                            "ru": "г. Бекабад",
+                            "en": "Bekobod city "
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "28",
+                        "name": "Bo\u0027ka tumani",
+                        "names": {
+                            "uz": "Bo\u0027ka tumani",
+                            "ru": "Букинский район",
+                            "en": "Buka district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "29",
+                        "name": "Bos\u0027tonliq tumani",
+                        "names": {
+                            "uz": "Bos\u0027tonliq tumani",
+                            "ru": "Бустанлыкский район",
+                            "en": "Bustonlik district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "30",
+                        "name": "Bekobod tumani",
+                        "names": {
+                            "uz": "Bekobod tumani",
+                            "ru": "Бекабадский район",
+                            "en": "Bekobod district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "31",
+                        "name": "Zangiota tumani (Eshonguzar)",
+                        "names": {
+                            "uz": "Zangiota tumani (Eshonguzar)",
+                            "ru": "Зангиатынский район (Эшонгузар)",
+                            "en": "Zangiata district (Eshanguzar)"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "32",
+                        "name": "Zangiota tumani (Keles)",
+                        "names": {
+                            "uz": "Zangiota tumani (Keles)",
+                            "ru": "Зангиатынский район (Келес)",
+                            "en": "Zangiata district (Keles)"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "33",
+                        "name": "Qibray tumani",
+                        "names": {
+                            "uz": "Qibray tumani",
+                            "ru": "Кибрайский район",
+                            "en": "Kibray district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "34",
+                        "name": "Parkent tumani",
+                        "names": {
+                            "uz": "Parkent tumani",
+                            "ru": "Паркентский район",
+                            "en": "Parkent district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "35",
+                        "name": "Pskent tumani",
+                        "names": {
+                            "uz": "Pskent tumani",
+                            "ru": "Пискентский район",
+                            "en": "Pskent district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "36",
+                        "name": "Quyichirchiq tumani (Yangibozor)",
+                        "names": {
+                            "uz": "Quyichirchiq tumani (Yangibozor)",
+                            "ru": "Куйичирчикский (янгибазар) район",
+                            "en": "Kuyinchirchik district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "37",
+                        "name": "O\u0027rtachirchiq tumani (To\u0027ytepa)",
+                        "names": {
+                            "uz": "O\u0027rtachirchiq tumani (To\u0027ytepa)",
+                            "ru": "Уртачирчикский (туйтепа) район",
+                            "en": " Urtachirchik district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "38",
+                        "name": "Chirchiq tumani",
+                        "names": {
+                            "uz": "Chirchiq tumani",
+                            "ru": "Чирчикский район",
+                            "en": "Chirchik district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "39",
+                        "name": "Chinoz tumani",
+                        "names": {
+                            "uz": "Chinoz tumani",
+                            "ru": "Чиназский район",
+                            "en": "Chinoz district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "40",
+                        "name": "Yuqorichirchiq tumani",
+                        "names": {
+                            "uz": "Yuqorichirchiq tumani",
+                            "ru": "Юкоричирчикский район",
+                            "en": "Yukarichirchik district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "41",
+                        "name": "Yangiyo\u0027l tumani",
+                        "names": {
+                            "uz": "Yangiyo\u0027l tumani",
+                            "ru": "Янгиюльский район",
+                            "en": "Yangiyul district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "42",
+                        "name": "Krasnogorsk sh.",
+                        "names": {
+                            "uz": "Krasnogorsk sh.",
+                            "ru": "г. Красногорск",
+                            "en": "Krasnogorsk city"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "43",
+                        "name": "Yangiyo\u0027l shahar",
+                        "names": {
+                            "uz": "Yangiyo\u0027l shahar",
+                            "ru": "г. Янгиюль",
+                            "en": "Yangiyul city"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "21",
+                        "name": "Ohangaron shahar\r\n",
+                        "names": {
+                            "uz": "Ohangaron shahar\r\n",
+                            "ru": "г.Ахангарон\r\n",
+                            "en": "Akhangaran city\r\n"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "22",
+                        "name": "Nurafshon shahar\r\n",
+                        "names": {
+                            "uz": "Nurafshon shahar\r\n",
+                            "ru": "г.Нурафшон\r\n",
+                            "en": "Nurafshan city\r\n"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "3",
+            "name": "Samarqand viloyati",
+            "names": {
+                "uz": "Samarqand viloyati",
+                "ru": "Самаркандская область",
+                "en": "Samarkand region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "71",
+                        "name": "Samarqand shahar",
+                        "names": {
+                            "uz": "Samarqand shahar",
+                            "ru": "г. Самарканд",
+                            "en": "Samarkand city"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "72",
+                        "name": "Samarqand tumani",
+                        "names": {
+                            "uz": "Samarqand tumani",
+                            "ru": "Самаркандский район",
+                            "en": "Samarkand district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "73",
+                        "name": "Bulung\u0027ur tumani",
+                        "names": {
+                            "uz": "Bulung\u0027ur tumani",
+                            "ru": "Булунгурский район",
+                            "en": "Bulungur district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "74",
+                        "name": "Jomboy tumani",
+                        "names": {
+                            "uz": "Jomboy tumani",
+                            "ru": "Жамбайский район",
+                            "en": "Jambay district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "75",
+                        "name": "Pastdarg\u0027om tumani",
+                        "names": {
+                            "uz": "Pastdarg\u0027om tumani",
+                            "ru": "Пастаргомский район",
+                            "en": "Pasdargom district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "76",
+                        "name": "Ishtixon tumani",
+                        "names": {
+                            "uz": "Ishtixon tumani",
+                            "ru": "Иштиханский район",
+                            "en": "Ishtikhon district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "77",
+                        "name": "Kattaqo\u0027rg\u0027on shahar",
+                        "names": {
+                            "uz": "Kattaqo\u0027rg\u0027on shahar",
+                            "ru": "г. Каттакургон",
+                            "en": "Kattakurgan district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "78",
+                        "name": "Nurobod tumani",
+                        "names": {
+                            "uz": "Nurobod tumani",
+                            "ru": "Нурабадский район",
+                            "en": "Nurabad district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "79",
+                        "name": "Oqdaryo tumani",
+                        "names": {
+                            "uz": "Oqdaryo tumani",
+                            "ru": "Окдаринский район ",
+                            "en": "Akdarya district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "80",
+                        "name": "Narpay tumani",
+                        "names": {
+                            "uz": "Narpay tumani",
+                            "ru": "Нарпайский район",
+                            "en": "Narpay district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "81",
+                        "name": "Payariq tumani",
+                        "names": {
+                            "uz": "Payariq tumani",
+                            "ru": "Пайарикский район",
+                            "en": "Payarik district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "82",
+                        "name": "Kattaqo\u0027rg\u0027on tumani",
+                        "names": {
+                            "uz": "Kattaqo\u0027rg\u0027on tumani",
+                            "ru": "Каттакурганский район",
+                            "en": "Kattakurgan district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "83",
+                        "name": "Paxtachi tumani",
+                        "names": {
+                            "uz": "Paxtachi tumani",
+                            "ru": "Пахтачинский район",
+                            "en": "Pakhtachi district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "84",
+                        "name": "Toyloq tumani",
+                        "names": {
+                            "uz": "Toyloq tumani",
+                            "ru": "Тайлокский район",
+                            "en": "Taylok district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "85",
+                        "name": "Urgut tumani",
+                        "names": {
+                            "uz": "Urgut tumani",
+                            "ru": "Ургутский район",
+                            "en": "Urgut district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "86",
+                        "name": "Qo\u0027shrabod tumani",
+                        "names": {
+                            "uz": "Qo\u0027shrabod tumani",
+                            "ru": "Кушрабадский район",
+                            "en": "Kushrabot district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "228",
+                        "name": "G\u0027azalkent tumani",
+                        "names": {
+                            "uz": "G\u0027azalkent tumani",
+                            "ru": "Гузалкентский район",
+                            "en": "Gazalkent district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "87",
+                        "name": "Chelek tumani",
+                        "names": {
+                            "uz": "Chelek tumani",
+                            "ru": "Челакский район",
+                            "en": "Chelek district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "4",
+            "name": "Jizzah viloyati",
+            "names": {
+                "uz": "Jizzah viloyati",
+                "ru": "Джизакская область",
+                "en": "Jizzakh region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "56",
+                        "name": "Jizzax shahar",
+                        "names": {
+                            "uz": "Jizzax shahar",
+                            "ru": "г. Джизак",
+                            "en": "Jizzakh city"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "57",
+                        "name": "Jizzax tumani",
+                        "names": {
+                            "uz": "Jizzax tumani",
+                            "ru": "Джизакский район",
+                            "en": "Jizzakh district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "58",
+                        "name": "G\u0027allaorol tumani",
+                        "names": {
+                            "uz": "G\u0027allaorol tumani",
+                            "ru": "Галлааралский район",
+                            "en": "Gallaarol district "
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "59",
+                        "name": "Baxmal tumani",
+                        "names": {
+                            "uz": "Baxmal tumani",
+                            "ru": "Бахмалский район",
+                            "en": "Bakhmal district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "60",
+                        "name": "Paxtakor tumani",
+                        "names": {
+                            "uz": "Paxtakor tumani",
+                            "ru": "Пахтакарский район",
+                            "en": "Pakhtakor district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "61",
+                        "name": "Zafarobod tumani",
+                        "names": {
+                            "uz": "Zafarobod tumani",
+                            "ru": "Зафарабадский район",
+                            "en": "Zafarobod district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "62",
+                        "name": "Do\u0027stlik tumani",
+                        "names": {
+                            "uz": "Do\u0027stlik tumani",
+                            "ru": "Дустликский район",
+                            "en": "Dustlik district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "63",
+                        "name": "Arnasoy tumani",
+                        "names": {
+                            "uz": "Arnasoy tumani",
+                            "ru": "Арнасайский район",
+                            "en": "Arnasoy district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "64",
+                        "name": "Mirzacho\u0027l tumani",
+                        "names": {
+                            "uz": "Mirzacho\u0027l tumani",
+                            "ru": "Мирзачулский район",
+                            "en": "Mirzachul district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "65",
+                        "name": "Zarbdor tumani",
+                        "names": {
+                            "uz": "Zarbdor tumani",
+                            "ru": "Зарбдорский район",
+                            "en": "Zardor district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "66",
+                        "name": "Zomin tumani",
+                        "names": {
+                            "uz": "Zomin tumani",
+                            "ru": "Заминский район",
+                            "en": "Zamin district  "
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "67",
+                        "name": "Dashtobod tumani",
+                        "names": {
+                            "uz": "Dashtobod tumani",
+                            "ru": "Даштабадский район",
+                            "en": "Dashtobod district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "68",
+                        "name": "Forish tumani",
+                        "names": {
+                            "uz": "Forish tumani",
+                            "ru": "Форишский район",
+                            "en": "Forish district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "69",
+                        "name": "Yangiobod tumani",
+                        "names": {
+                            "uz": "Yangiobod tumani",
+                            "ru": "Янгиабадский район",
+                            "en": "Yangiobod district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "5",
+            "name": "Sirdaryo viloyati",
+            "names": {
+                "uz": "Sirdaryo viloyati",
+                "ru": "Сырдарьинская область",
+                "en": "Syrdarya region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "44",
+                        "name": "Guliston shahar",
+                        "names": {
+                            "uz": "Guliston shahar",
+                            "ru": "г. Гулистан",
+                            "en": "Gulistan city"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "45",
+                        "name": "Yangiyer shahar",
+                        "names": {
+                            "uz": "Yangiyer shahar",
+                            "ru": "г. Янгиер",
+                            "en": "Yangiyer city"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "46",
+                        "name": "Shirin shahar",
+                        "names": {
+                            "uz": "Shirin shahar",
+                            "ru": "г. Ширин",
+                            "en": "Shirin city"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "47",
+                        "name": "Oqoltin tumani",
+                        "names": {
+                            "uz": "Oqoltin tumani",
+                            "ru": "Акалтинский район",
+                            "en": "Akaltin district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "48",
+                        "name": "Boyavut tumani",
+                        "names": {
+                            "uz": "Boyavut tumani",
+                            "ru": "Баявутский район",
+                            "en": "Boyavut district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "49",
+                        "name": "Guliston tumani",
+                        "names": {
+                            "uz": "Guliston tumani",
+                            "ru": "Гулистанский район",
+                            "en": "Gulistan district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "50",
+                        "name": "Sirdaryo tumani",
+                        "names": {
+                            "uz": "Sirdaryo tumani",
+                            "ru": "Сырдаринский район",
+                            "en": "Syrdarya district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "51",
+                        "name": "Baxt shahri",
+                        "names": {
+                            "uz": "Baxt shahri",
+                            "ru": "г. Бахт",
+                            "en": "Bakht city"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "52",
+                        "name": "Sayxunobod tumani",
+                        "names": {
+                            "uz": "Sayxunobod tumani",
+                            "ru": "Сайхунабадский район",
+                            "en": "Saykhunobod district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "53",
+                        "name": "Xovos tumani",
+                        "names": {
+                            "uz": "Xovos tumani",
+                            "ru": "Хавасский район",
+                            "en": "Khovos district "
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "54",
+                        "name": "Mirzaobod tumani",
+                        "names": {
+                            "uz": "Mirzaobod tumani",
+                            "ru": "Мирзаабадский район",
+                            "en": "Mirzaobod district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "55",
+                        "name": "Mehnatobod tumani",
+                        "names": {
+                            "uz": "Mehnatobod tumani",
+                            "ru": "Мехнатабадский район",
+                            "en": "Mehnatobod district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "226",
+                        "name": "Sardoba tumani",
+                        "names": {
+                            "uz": "Sardoba tumani",
+                            "ru": "Сардабский район",
+                            "en": "Sardoba district "
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "6",
+            "name": "Farg\u0027ona viloyati",
+            "names": {
+                "uz": "Farg\u0027ona viloyati",
+                "ru": "Ферганская область",
+                "en": "Fergana region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "88",
+                        "name": "Marg\u0027ilon shahar",
+                        "names": {
+                            "uz": "Marg\u0027ilon shahar",
+                            "ru": "г. Маргилан",
+                            "en": "Margelan city"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "89",
+                        "name": "Farg\u0027ona shahar",
+                        "names": {
+                            "uz": "Farg\u0027ona shahar",
+                            "ru": "г. Фергана",
+                            "en": "Fergana city "
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "90",
+                        "name": "Quvasoy shahar",
+                        "names": {
+                            "uz": "Quvasoy shahar",
+                            "ru": "г. Кувасай",
+                            "en": "Kuvasay city"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "91",
+                        "name": "Qo\u0027qon shahar",
+                        "names": {
+                            "uz": "Qo\u0027qon shahar",
+                            "ru": "г. Коканд",
+                            "en": "Kokand city"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "92",
+                        "name": "Bog\u0027dod tumani",
+                        "names": {
+                            "uz": "Bog\u0027dod tumani",
+                            "ru": "Багдадский район ",
+                            "en": "Bagdad district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "93",
+                        "name": "Beshariq tumani",
+                        "names": {
+                            "uz": "Beshariq tumani",
+                            "ru": "Бешарикский район",
+                            "en": "Besharik district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "94",
+                        "name": "Yangiqo\u0027rg\u0027on tumani",
+                        "names": {
+                            "uz": "Yangiqo\u0027rg\u0027on tumani",
+                            "ru": "Янгикурганский район",
+                            "en": "Yangikurgan district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "95",
+                        "name": "Dang\u0027ara tumani",
+                        "names": {
+                            "uz": "Dang\u0027ara tumani",
+                            "ru": "Дангаринский район",
+                            "en": "Dangara district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "96",
+                        "name": "Yozyovon tumani",
+                        "names": {
+                            "uz": "Yozyovon tumani",
+                            "ru": "Езъеванский район",
+                            "en": "Yozyovon district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "97",
+                        "name": "Oltiariq tumani",
+                        "names": {
+                            "uz": "Oltiariq tumani",
+                            "ru": "Алтиарикский район",
+                            "en": "Altiarik district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "98",
+                        "name": "Oxunboboyev tumani",
+                        "names": {
+                            "uz": "Oxunboboyev tumani",
+                            "ru": "Ахунбабаевский район",
+                            "en": "Okhunboboyev district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "99",
+                        "name": "Rishton tumani",
+                        "names": {
+                            "uz": "Rishton tumani",
+                            "ru": "Риштанский район",
+                            "en": "Rishton district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "100",
+                        "name": "So\u0027x tumani",
+                        "names": {
+                            "uz": "So\u0027x tumani",
+                            "ru": "Сохский район",
+                            "en": "Sukh district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "101",
+                        "name": "Toshloq tumani",
+                        "names": {
+                            "uz": "Toshloq tumani",
+                            "ru": "Ташлакский район",
+                            "en": "Toshlok district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "102",
+                        "name": "Uchko\u0027prik tumani",
+                        "names": {
+                            "uz": "Uchko\u0027prik tumani",
+                            "ru": "Уч-куприкский район",
+                            "en": "Uchkuprik district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "103",
+                        "name": "Farg\u0027ona tumani",
+                        "names": {
+                            "uz": "Farg\u0027ona tumani",
+                            "ru": "Ферганский район",
+                            "en": "Fergana district "
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "104",
+                        "name": "Furqat tumani",
+                        "names": {
+                            "uz": "Furqat tumani",
+                            "ru": "Фуркатский район",
+                            "en": "Furkat district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "105",
+                        "name": "O\u0027zbekiston tumani",
+                        "names": {
+                            "uz": "O\u0027zbekiston tumani",
+                            "ru": "Узбекистанский район",
+                            "en": "Uzbekistan district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "106",
+                        "name": "Quva tumani",
+                        "names": {
+                            "uz": "Quva tumani",
+                            "ru": "Кувынский район",
+                            "en": "Kuva district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "7",
+            "name": "Andijon viloyati",
+            "names": {
+                "uz": "Andijon viloyati",
+                "ru": "Андижанская область",
+                "en": "Andijan region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "122",
+                        "name": "Andijon shahar",
+                        "names": {
+                            "uz": "Andijon shahar",
+                            "ru": "г. Андижан",
+                            "en": "Andijon city"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "123",
+                        "name": "Andijon tumani",
+                        "names": {
+                            "uz": "Andijon tumani",
+                            "ru": "Андижанский район",
+                            "en": "Andijon district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "124",
+                        "name": "Asaka shahar",
+                        "names": {
+                            "uz": "Asaka shahar",
+                            "ru": "г. Асака",
+                            "en": "Asaka city"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "125",
+                        "name": "Asaka tumani",
+                        "names": {
+                            "uz": "Asaka tumani",
+                            "ru": "Асакинский район",
+                            "en": "Asaka district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "126",
+                        "name": "Baliqchi tumani",
+                        "names": {
+                            "uz": "Baliqchi tumani",
+                            "ru": "Баликчинский район",
+                            "en": "Balikchi district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "127",
+                        "name": "Bo\u0027z tumani",
+                        "names": {
+                            "uz": "Bo\u0027z tumani",
+                            "ru": "Бузский район",
+                            "en": "Buz district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "128",
+                        "name": "Buloqboshi tumani",
+                        "names": {
+                            "uz": "Buloqboshi tumani",
+                            "ru": "Булакбашинский район",
+                            "en": "Bulakbashi district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "129",
+                        "name": "Jalolquduq tumani",
+                        "names": {
+                            "uz": "Jalolquduq tumani",
+                            "ru": "Жалалкудукский район",
+                            "en": "Jalolkuduk district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "130",
+                        "name": "Izboskan tumani",
+                        "names": {
+                            "uz": "Izboskan tumani",
+                            "ru": "Избасканский район",
+                            "en": "Izboskan district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "131",
+                        "name": "Qo\u0027rg\u0027ontepa tumani",
+                        "names": {
+                            "uz": "Qo\u0027rg\u0027ontepa tumani",
+                            "ru": "Кургантепинский район",
+                            "en": "Kurgontepa district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "132",
+                        "name": "Xonobod tumani",
+                        "names": {
+                            "uz": "Xonobod tumani",
+                            "ru": "Ханабадский район",
+                            "en": "Khonobod district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "133",
+                        "name": "Qorasuv tumani",
+                        "names": {
+                            "uz": "Qorasuv tumani",
+                            "ru": "Карасувский район",
+                            "en": "Korasuv district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "134",
+                        "name": "Marhamat tumani",
+                        "names": {
+                            "uz": "Marhamat tumani",
+                            "ru": "Мархаматский район",
+                            "en": "Markhamat district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "135",
+                        "name": "Oltinko\u0027l tumani",
+                        "names": {
+                            "uz": "Oltinko\u0027l tumani",
+                            "ru": "Олтинкулский район",
+                            "en": "Altinkul district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "136",
+                        "name": "Paxtaobod tumani",
+                        "names": {
+                            "uz": "Paxtaobod tumani",
+                            "ru": "Пахтабадский район",
+                            "en": "Pakhtaobod district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "137",
+                        "name": "Ulug\u0027nor tumani",
+                        "names": {
+                            "uz": "Ulug\u0027nor tumani",
+                            "ru": "Улугнарский район",
+                            "en": "Ulugnor district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "138",
+                        "name": "Xo\u0027jaobod tumani",
+                        "names": {
+                            "uz": "Xo\u0027jaobod tumani",
+                            "ru": "Хужабадский район",
+                            "en": "Khajabod district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "139",
+                        "name": "Shaxrixon tumani",
+                        "names": {
+                            "uz": "Shaxrixon tumani",
+                            "ru": "Шахриханский район",
+                            "en": "Shakhrikhon district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "121",
+                        "name": "Buloqboshi tumani-2",
+                        "names": {
+                            "uz": "Buloqboshi tumani-2",
+                            "ru": "Булокбошинский район-2",
+                            "en": "Bulakbashi district-2"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "8",
+            "name": "Namangan viloyati",
+            "names": {
+                "uz": "Namangan viloyati",
+                "ru": "Наманганская область",
+                "en": "Namangan region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "108",
+                        "name": "Namangan shahar",
+                        "names": {
+                            "uz": "Namangan shahar",
+                            "ru": "г. Наманган",
+                            "en": "Namangan city"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "109",
+                        "name": "Namangan shahar (2 baza)",
+                        "names": {
+                            "uz": "Namangan shahar (2 baza)",
+                            "ru": "г. Наманган (2 база)",
+                            "en": "Namangan city (2nd)"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "110",
+                        "name": "Kosonsoy tumani",
+                        "names": {
+                            "uz": "Kosonsoy tumani",
+                            "ru": "Касансайский район",
+                            "en": "Kosonsoy district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "111",
+                        "name": "Norin tumani",
+                        "names": {
+                            "uz": "Norin tumani",
+                            "ru": "Наринский район",
+                            "en": "Narin district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "112",
+                        "name": "Uchqo\u0027rg\u0027on tumani",
+                        "names": {
+                            "uz": "Uchqo\u0027rg\u0027on tumani",
+                            "ru": "Учкурганский район",
+                            "en": "Uchkurgan district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "113",
+                        "name": "Chortoq tumani",
+                        "names": {
+                            "uz": "Chortoq tumani",
+                            "ru": "Чартакский район ",
+                            "en": "Chortak district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "114",
+                        "name": "Chust tumani",
+                        "names": {
+                            "uz": "Chust tumani",
+                            "ru": "Чустский район",
+                            "en": "Chust district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "115",
+                        "name": "To\u0027raqo\u0027rg\u0027on tumani",
+                        "names": {
+                            "uz": "To\u0027raqo\u0027rg\u0027on tumani",
+                            "ru": "Туракурганский район",
+                            "en": "Turakurgan district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "116",
+                        "name": "Pop tumani",
+                        "names": {
+                            "uz": "Pop tumani",
+                            "ru": "Папский район",
+                            "en": "Pop district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "117",
+                        "name": "Mingbuloq tumani",
+                        "names": {
+                            "uz": "Mingbuloq tumani",
+                            "ru": "Мингбулакский район",
+                            "en": "Mingbulak district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "118",
+                        "name": "Namangan tumani",
+                        "names": {
+                            "uz": "Namangan tumani",
+                            "ru": "Наманганский район",
+                            "en": "Namangan district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "119",
+                        "name": "Uychi tumani",
+                        "names": {
+                            "uz": "Uychi tumani",
+                            "ru": "Уйчинский район",
+                            "en": "Uychi district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "120",
+                        "name": "Yangiqo\u0027rg\u0027on tumani",
+                        "names": {
+                            "uz": "Yangiqo\u0027rg\u0027on tumani",
+                            "ru": "Янгикурганский район",
+                            "en": "Yangikurgan district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "233",
+                        "name": "Yangi Namangan tumani",
+                        "names": {
+                            "uz": "Yangi Namangan tumani",
+                            "ru": "Янги Наманганский район",
+                            "en": "Yangi Namangan district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "9",
+            "name": "Qashqadaryo viloyati",
+            "names": {
+                "uz": "Qashqadaryo viloyati",
+                "ru": "Кашкадарьинская область",
+                "en": "Kashkadarya region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "141",
+                        "name": "Qarshi shahar",
+                        "names": {
+                            "uz": "Qarshi shahar",
+                            "ru": "г. Карши",
+                            "en": "Karshi city"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "142",
+                        "name": "Shaxrisabz tumani",
+                        "names": {
+                            "uz": "Shaxrisabz tumani",
+                            "ru": "Шахрисабзский район",
+                            "en": "Shakhrisabz district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "143",
+                        "name": "Kitob tumani",
+                        "names": {
+                            "uz": "Kitob tumani",
+                            "ru": "Китабский район ",
+                            "en": "Kitob district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "144",
+                        "name": "Yakkabog\u0027 tumani",
+                        "names": {
+                            "uz": "Yakkabog\u0027 tumani",
+                            "ru": "Яккабагский район ",
+                            "en": "Yakkabog district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "145",
+                        "name": "Chiroqchi tumani",
+                        "names": {
+                            "uz": "Chiroqchi tumani",
+                            "ru": "Чиракчинский район",
+                            "en": "Chirokchi district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "146",
+                        "name": "Qamashi tumani",
+                        "names": {
+                            "uz": "Qamashi tumani",
+                            "ru": "Камашинский район",
+                            "en": "Kamashi district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "147",
+                        "name": "G\u0027uzor tumani",
+                        "names": {
+                            "uz": "G\u0027uzor tumani",
+                            "ru": "Гузарский район",
+                            "en": "Guzar district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "148",
+                        "name": "Qarshi tumani",
+                        "names": {
+                            "uz": "Qarshi tumani",
+                            "ru": "Каршинский район",
+                            "en": "Karshi district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "149",
+                        "name": "Nishon tumani",
+                        "names": {
+                            "uz": "Nishon tumani",
+                            "ru": "Нишанский район ",
+                            "en": "Nishan district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "150",
+                        "name": "Koson tumani",
+                        "names": {
+                            "uz": "Koson tumani",
+                            "ru": "Касанский район ",
+                            "en": "Koson district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "151",
+                        "name": "Kasbi tumani",
+                        "names": {
+                            "uz": "Kasbi tumani",
+                            "ru": "Касбинский район",
+                            "en": "Kasbi district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "152",
+                        "name": "Mirishkor tumani",
+                        "names": {
+                            "uz": "Mirishkor tumani",
+                            "ru": "Миришкарский район",
+                            "en": "Mirishkar district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "153",
+                        "name": "Muborak tumani",
+                        "names": {
+                            "uz": "Muborak tumani",
+                            "ru": "Мубаракский район",
+                            "en": "Mubarak district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "154",
+                        "name": "Dehqonobod tumani",
+                        "names": {
+                            "uz": "Dehqonobod tumani",
+                            "ru": "Дехканабадский район",
+                            "en": "Dekhkanabad district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "155",
+                        "name": "Shahrisabz shahar\r\n",
+                        "names": {
+                            "uz": "Shahrisabz shahar\r\n",
+                            "ru": "г.Шаҳрисабз\r\n",
+                            "en": "Shakhrisabz city\r\n"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "10",
+            "name": "Surxandaryo viloyati",
+            "names": {
+                "uz": "Surxandaryo viloyati",
+                "ru": "Сурхандарьинская область",
+                "en": "Surkhandarya region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "156",
+                        "name": "Angor tumani",
+                        "names": {
+                            "uz": "Angor tumani",
+                            "ru": "Ангарский район",
+                            "en": "Angar district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "157",
+                        "name": "Boysun tumani",
+                        "names": {
+                            "uz": "Boysun tumani",
+                            "ru": "Байсунский район ",
+                            "en": "Baysun district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "158",
+                        "name": "Bandixon tumani",
+                        "names": {
+                            "uz": "Bandixon tumani",
+                            "ru": "Бандыханский район",
+                            "en": "Bandikhon district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "159",
+                        "name": "Denov shahar",
+                        "names": {
+                            "uz": "Denov shahar",
+                            "ru": "г. Денав",
+                            "en": "Denov district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "160",
+                        "name": "Denov tumani",
+                        "names": {
+                            "uz": "Denov tumani",
+                            "ru": "Денавский район ",
+                            "en": "Denov district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "161",
+                        "name": "Jarqo\u0027rg\u0027on tumani",
+                        "names": {
+                            "uz": "Jarqo\u0027rg\u0027on tumani",
+                            "ru": "Жаркурганский район",
+                            "en": "Jarakurgan district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "162",
+                        "name": "Qiziriq tumani",
+                        "names": {
+                            "uz": "Qiziriq tumani",
+                            "ru": "Кизирикский район",
+                            "en": "Kizirik district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "163",
+                        "name": "Qumqo\u0027rg\u0027on tumani",
+                        "names": {
+                            "uz": "Qumqo\u0027rg\u0027on tumani",
+                            "ru": "Кумкурганский район",
+                            "en": "Kumkurgan district "
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "164",
+                        "name": "Muzrabod tumani",
+                        "names": {
+                            "uz": "Muzrabod tumani",
+                            "ru": "Музрабадский район",
+                            "en": "Muzrabod district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "165",
+                        "name": "Oltinsoy tumani",
+                        "names": {
+                            "uz": "Oltinsoy tumani",
+                            "ru": "Алтинсайский район",
+                            "en": "Altinsay district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "166",
+                        "name": "Sariosiyo tumani",
+                        "names": {
+                            "uz": "Sariosiyo tumani",
+                            "ru": "Сариасийский район",
+                            "en": "Sariasiya district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "167",
+                        "name": "Temiz shahar",
+                        "names": {
+                            "uz": "Temiz shahar",
+                            "ru": "г. Термез",
+                            "en": "Termiz city"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "168",
+                        "name": "Termiz tumani",
+                        "names": {
+                            "uz": "Termiz tumani",
+                            "ru": "Термезский район",
+                            "en": "Termiz district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "169",
+                        "name": "Sherobod tumani",
+                        "names": {
+                            "uz": "Sherobod tumani",
+                            "ru": "Шерабадский район ",
+                            "en": "Sherabad district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "170",
+                        "name": "Sho\u0027rchi tumani",
+                        "names": {
+                            "uz": "Sho\u0027rchi tumani",
+                            "ru": "Шурчинский район  ",
+                            "en": "Shurchi district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "171",
+                        "name": "Uzun tumani",
+                        "names": {
+                            "uz": "Uzun tumani",
+                            "ru": "Узунский район",
+                            "en": "Uzun district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "11",
+            "name": "Buxoro viloyati",
+            "names": {
+                "uz": "Buxoro viloyati",
+                "ru": "Бухарская область",
+                "en": "Bukhara region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "172",
+                        "name": "Buxoro shahri",
+                        "names": {
+                            "uz": "Buxoro shahri",
+                            "ru": "г. Бухара",
+                            "en": "Bukhara city"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "174",
+                        "name": "Romiton tumani",
+                        "names": {
+                            "uz": "Romiton tumani",
+                            "ru": "Ромитанский район ",
+                            "en": "Ramiton district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "175",
+                        "name": "Kogon tumani",
+                        "names": {
+                            "uz": "Kogon tumani",
+                            "ru": "Каганский район ",
+                            "en": "Kagon district "
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "176",
+                        "name": "G\u0027ijduvon tumani",
+                        "names": {
+                            "uz": "G\u0027ijduvon tumani",
+                            "ru": "Гиждуванский район ",
+                            "en": "Gijduvan district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "177",
+                        "name": "Buxoro tumani",
+                        "names": {
+                            "uz": "Buxoro tumani",
+                            "ru": "Бухарский район ",
+                            "en": "Bukhara district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "178",
+                        "name": "Jondor tumani",
+                        "names": {
+                            "uz": "Jondor tumani",
+                            "ru": "Жондорский район",
+                            "en": "Jandar district "
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "179",
+                        "name": "Vobkent tumani",
+                        "names": {
+                            "uz": "Vobkent tumani",
+                            "ru": "Вобкентский район",
+                            "en": "Vobkent district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "180",
+                        "name": "Peshku tumani",
+                        "names": {
+                            "uz": "Peshku tumani",
+                            "ru": "Пешкунский район",
+                            "en": "Peshku district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "181",
+                        "name": "Shofirkon tumani",
+                        "names": {
+                            "uz": "Shofirkon tumani",
+                            "ru": "Шафирканский район",
+                            "en": "Shafirkan district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "182",
+                        "name": "Qorako\u0027l tumani",
+                        "names": {
+                            "uz": "Qorako\u0027l tumani",
+                            "ru": "Каракулский район",
+                            "en": "Karakul district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "183",
+                        "name": "Olot tumani",
+                        "names": {
+                            "uz": "Olot tumani",
+                            "ru": "Олотский район",
+                            "en": "Alat district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "184",
+                        "name": "Qorovulbozor tumani",
+                        "names": {
+                            "uz": "Qorovulbozor tumani",
+                            "ru": "Каравулбазарский район",
+                            "en": "Karavulbazar district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "12",
+            "name": "Navoiy viloyati",
+            "names": {
+                "uz": "Navoiy viloyati",
+                "ru": "Навоийская область",
+                "en": "Navoi region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "186",
+                        "name": "Zarafshon shahar",
+                        "names": {
+                            "uz": "Zarafshon shahar",
+                            "ru": "г. Зарафшан",
+                            "en": "Zarafshan city"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "187",
+                        "name": "Karmana tumani",
+                        "names": {
+                            "uz": "Karmana tumani",
+                            "ru": "Карманинский район",
+                            "en": "Karmana district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "188",
+                        "name": "Qiziltepa tumani",
+                        "names": {
+                            "uz": "Qiziltepa tumani",
+                            "ru": "Кизилтепинский район",
+                            "en": "Kiziltepa district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "189",
+                        "name": "Konimeh tumani",
+                        "names": {
+                            "uz": "Konimeh tumani",
+                            "ru": "Канимехский район",
+                            "en": "Konimekh district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "190",
+                        "name": "Navoiy shahar",
+                        "names": {
+                            "uz": "Navoiy shahar",
+                            "ru": "г. Наваи",
+                            "en": "Navoi city"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "191",
+                        "name": "Navbahor tumani",
+                        "names": {
+                            "uz": "Navbahor tumani",
+                            "ru": "Навбахарский район ",
+                            "en": "Navbakhar district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "192",
+                        "name": "Nurota tumani",
+                        "names": {
+                            "uz": "Nurota tumani",
+                            "ru": "Нуротинский район",
+                            "en": "Nurata district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "193",
+                        "name": "Xatirchi tumani",
+                        "names": {
+                            "uz": "Xatirchi tumani",
+                            "ru": "Хатирчинский район",
+                            "en": "Khatirchi district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "229",
+                        "name": "Uchquduq tumani\r\n",
+                        "names": {
+                            "uz": "Uchquduq tumani\r\n",
+                            "ru": "Учкудукский район\r\n",
+                            "en": "Uchkuduk district\r\n"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "185",
+                        "name": "G\u0027ozg\u0027on shahar\r\n",
+                        "names": {
+                            "uz": "G\u0027ozg\u0027on shahar\r\n",
+                            "ru": "г.Гозгон\r\n",
+                            "en": "Gozgon city\r\n"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "194",
+                        "name": "Tomdi tumani\r\n",
+                        "names": {
+                            "uz": "Tomdi tumani\r\n",
+                            "ru": "Тамдынский район\r\n",
+                            "en": "Tamdi district\r\n"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "13",
+            "name": "Qoraqalpog\u0027iston Respublikasi",
+            "names": {
+                "uz": "Qoraqalpog\u0027iston Respublikasi",
+                "ru": "Р. Каракалпакстан",
+                "en": "Republic of Karakalpakistan"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "208",
+                        "name": "Nukus shahar",
+                        "names": {
+                            "uz": "Nukus shahar",
+                            "ru": "г. Нукус",
+                            "en": "Nukus city"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "209",
+                        "name": "Nukus tumani",
+                        "names": {
+                            "uz": "Nukus tumani",
+                            "ru": "Нукусский район",
+                            "en": "Nukus district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "210",
+                        "name": "Kegeyli tumani",
+                        "names": {
+                            "uz": "Kegeyli tumani",
+                            "ru": "Кегеилинский район",
+                            "en": "Kegeyli district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "211",
+                        "name": "Chimboy tumani",
+                        "names": {
+                            "uz": "Chimboy tumani",
+                            "ru": "Чимбайский район",
+                            "en": "Chimboy district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "212",
+                        "name": "Qorauzoq tumani",
+                        "names": {
+                            "uz": "Qorauzoq tumani",
+                            "ru": "Караузякский район",
+                            "en": "Karauzak district "
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "213",
+                        "name": "Taxtako\u0027pir tumani",
+                        "names": {
+                            "uz": "Taxtako\u0027pir tumani",
+                            "ru": "Тахтакупирский район",
+                            "en": "Takhtakupir district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "214",
+                        "name": "Xo\u0027jayli tumani",
+                        "names": {
+                            "uz": "Xo\u0027jayli tumani",
+                            "ru": "Хужайлинский район",
+                            "en": "Khujayli district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "215",
+                        "name": "Shumanay tumani",
+                        "names": {
+                            "uz": "Shumanay tumani",
+                            "ru": "Шуманайский район",
+                            "en": "Shumanay district "
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "216",
+                        "name": "Kanliko\u0027l tumani",
+                        "names": {
+                            "uz": "Kanliko\u0027l tumani",
+                            "ru": "Канлыкульский район",
+                            "en": "Kanlikul district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "217",
+                        "name": "Taxiatosh tumani",
+                        "names": {
+                            "uz": "Taxiatosh tumani",
+                            "ru": "Тахиаташский район",
+                            "en": "Takhiatash district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "218",
+                        "name": "Qo\u0027ng\u0027irot tumani",
+                        "names": {
+                            "uz": "Qo\u0027ng\u0027irot tumani",
+                            "ru": "Кунградский район",
+                            "en": "Kungirot district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "219",
+                        "name": "Mo\u0027ynoq tumani",
+                        "names": {
+                            "uz": "Mo\u0027ynoq tumani",
+                            "ru": "Муйнакский район",
+                            "en": "Muynak district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "220",
+                        "name": "Amudaryo tumani",
+                        "names": {
+                            "uz": "Amudaryo tumani",
+                            "ru": "Амударьинский район",
+                            "en": "Amudarya district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "221",
+                        "name": "To\u0027rtko\u0027l tumani",
+                        "names": {
+                            "uz": "To\u0027rtko\u0027l tumani",
+                            "ru": "Турткульский район",
+                            "en": "Turtkul district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "222",
+                        "name": "Ellikqal\u0027a tumani",
+                        "names": {
+                            "uz": "Ellikqal\u0027a tumani",
+                            "ru": "Элликкалинский район",
+                            "en": "Ellikkala district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "223",
+                        "name": "Beruniy tumani",
+                        "names": {
+                            "uz": "Beruniy tumani",
+                            "ru": "Берунийский район",
+                            "en": "Beruniy district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "224",
+                        "name": "Bo\u0027zatov tumani",
+                        "names": {
+                            "uz": "Bo\u0027zatov tumani",
+                            "ru": "Бозатауский район",
+                            "en": "Bozataw district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "225",
+                        "name": "Xalqobod shahri",
+                        "names": {
+                            "uz": "Xalqobod shahri",
+                            "ru": "г.Халкабад",
+                            "en": "Khalkabad city"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "14",
+            "name": "Xorazm viloyati",
+            "names": {
+                "uz": "Xorazm viloyati",
+                "ru": "Хорезмская область",
+                "en": "Khorezm region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "195",
+                        "name": "Urganch shahar",
+                        "names": {
+                            "uz": "Urganch shahar",
+                            "ru": "г. Ургенч",
+                            "en": "Urgench city"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "196",
+                        "name": "Urganch tumani",
+                        "names": {
+                            "uz": "Urganch tumani",
+                            "ru": "Ургенчский район",
+                            "en": "Urgench district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "197",
+                        "name": "Xiva tumani",
+                        "names": {
+                            "uz": "Xiva tumani",
+                            "ru": "Хивинский район",
+                            "en": "Khiva district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "198",
+                        "name": "Xonqa tumani",
+                        "names": {
+                            "uz": "Xonqa tumani",
+                            "ru": "Ханкайский район",
+                            "en": "Khonka district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "199",
+                        "name": "Shovot tumani",
+                        "names": {
+                            "uz": "Shovot tumani",
+                            "ru": "Шаватский район",
+                            "en": "Shavat district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "200",
+                        "name": "Bog\u0027ot tumani",
+                        "names": {
+                            "uz": "Bog\u0027ot tumani",
+                            "ru": "Багатский район",
+                            "en": "Bagat district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "201",
+                        "name": "Yangiariq tumani",
+                        "names": {
+                            "uz": "Yangiariq tumani",
+                            "ru": "Янгиарикский район",
+                            "en": "Yangiarik district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "202",
+                        "name": "Yangibozor tumani",
+                        "names": {
+                            "uz": "Yangibozor tumani",
+                            "ru": "Янгибазарский район",
+                            "en": "Yangibazar district "
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "203",
+                        "name": "Gurlan tumani",
+                        "names": {
+                            "uz": "Gurlan tumani",
+                            "ru": "Гурланский район",
+                            "en": "Gurlan district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "204",
+                        "name": "Qo\u0027shko\u0027pir tumani",
+                        "names": {
+                            "uz": "Qo\u0027shko\u0027pir tumani",
+                            "ru": "Кушкупирский район",
+                            "en": "Kushkupir district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "205",
+                        "name": "Xazorasp tumani",
+                        "names": {
+                            "uz": "Xazorasp tumani",
+                            "ru": "Хазараспский район",
+                            "en": "Khazarasp district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "206",
+                        "name": "Pitnak tumani",
+                        "names": {
+                            "uz": "Pitnak tumani",
+                            "ru": "Питнакский район",
+                            "en": "Pitnak district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "207",
+                        "name": "Xiva shahar\r\n",
+                        "names": {
+                            "uz": "Xiva shahar\r\n",
+                            "ru": "г.Хива\r\n",
+                            "en": "Khiva city\r\n"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "230",
+                        "name": "Tuproqqal\u0027a tumani\r\n",
+                        "names": {
+                            "uz": "Tuproqqal\u0027a tumani\r\n",
+                            "ru": "Тупроккалинский район\r\n",
+                            "en": "Tuprokkala district\r\n"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
