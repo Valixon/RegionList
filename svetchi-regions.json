@@ -3,7 +3,7 @@
     "titles": {},
     "areas": [
         {
-            "code": "1",
+            "code": "3014",
             "name": "Toshkent shahri",
             "names": {
                 "uz": "Toshkent shahri",
@@ -162,7 +162,7 @@
             }
         },
         {
-            "code": "2",
+            "code": "3042",
             "name": "Toshkent viloyati",
             "names": {
                 "uz": "Toshkent viloyati",
@@ -453,7 +453,7 @@
             }
         },
         {
-            "code": "3",
+            "code": "3215",
             "name": "Samarqand viloyati",
             "names": {
                 "uz": "Samarqand viloyati",
@@ -684,7 +684,7 @@
             }
         },
         {
-            "code": "4",
+            "code": "3217",
             "name": "Jizzah viloyati",
             "names": {
                 "uz": "Jizzah viloyati",
@@ -867,7 +867,7 @@
             }
         },
         {
-            "code": "5",
+            "code": "3038",
             "name": "Sirdaryo viloyati",
             "names": {
                 "uz": "Sirdaryo viloyati",
@@ -1038,7 +1038,7 @@
             }
         },
         {
-            "code": "6",
+            "code": "3015",
             "name": "Farg\u0027ona viloyati",
             "names": {
                 "uz": "Farg\u0027ona viloyati",
@@ -1281,7 +1281,7 @@
             }
         },
         {
-            "code": "7",
+            "code": "3034",
             "name": "Andijon viloyati",
             "names": {
                 "uz": "Andijon viloyati",
@@ -1524,7 +1524,7 @@
             }
         },
         {
-            "code": "8",
+            "code": "2994",
             "name": "Namangan viloyati",
             "names": {
                 "uz": "Namangan viloyati",
@@ -1707,7 +1707,7 @@
             }
         },
         {
-            "code": "9",
+            "code": "3213",
             "name": "Qashqadaryo viloyati",
             "names": {
                 "uz": "Qashqadaryo viloyati",
@@ -1902,7 +1902,7 @@
             }
         },
         {
-            "code": "10",
+            "code": "3039",
             "name": "Surxandaryo viloyati",
             "names": {
                 "uz": "Surxandaryo viloyati",
@@ -2109,7 +2109,7 @@
             }
         },
         {
-            "code": "11",
+            "code": "2953",
             "name": "Buxoro viloyati",
             "names": {
                 "uz": "Buxoro viloyati",
@@ -2268,7 +2268,7 @@
             }
         },
         {
-            "code": "12",
+            "code": "3035",
             "name": "Navoiy viloyati",
             "names": {
                 "uz": "Navoiy viloyati",
@@ -2415,7 +2415,7 @@
             }
         },
         {
-            "code": "13",
+            "code": "2957",
             "name": "Qoraqalpog\u0027iston Respublikasi",
             "names": {
                 "uz": "Qoraqalpog\u0027iston Respublikasi",
