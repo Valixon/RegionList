@@ -174,7 +174,7 @@
                 "titles": {},
                 "areas": [
                     {
-                        "code": "23",
+                        "code": "27404",
                         "name": "Olmaliq tumani",
                         "names": {
                             "uz": "Olmaliq tumani",
@@ -186,7 +186,19 @@
                         }
                     },
                     {
-                        "code": "24",
+                        "code": "27237",
+                        "name": "Toshkent TETK",
+                        "names": {
+                            "uz": "Toshkent TETK",
+                            "ru": "Toshkent TETK",
+                            "en": "Toshkent TETK "
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27407",
                         "name": "Angren tumani",
                         "names": {
                             "uz": "Angren tumani",
@@ -198,7 +210,7 @@
                         }
                     },
                     {
-                        "code": "25",
+                        "code": "27212",
                         "name": "Ohangaron tumani",
                         "names": {
                             "uz": "Ohangaron tumani",
@@ -210,7 +222,7 @@
                         }
                     },
                     {
-                        "code": "26",
+                        "code": "27206",
                         "name": "Oqqo\u0027rg\u0027on tumani",
                         "names": {
                             "uz": "Oqqo\u0027rg\u0027on tumani",
@@ -222,19 +234,7 @@
                         }
                     },
                     {
-                        "code": "27",
-                        "name": "Bekobod shahar",
-                        "names": {
-                            "uz": "Bekobod shahar",
-                            "ru": "г. Бекабад",
-                            "en": "Bekobod city "
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "28",
+                        "code": "27228",
                         "name": "Bo\u0027ka tumani",
                         "names": {
                             "uz": "Bo\u0027ka tumani",
@@ -246,7 +246,7 @@
                         }
                     },
                     {
-                        "code": "29",
+                        "code": "27224",
                         "name": "Bos\u0027tonliq tumani",
                         "names": {
                             "uz": "Bos\u0027tonliq tumani",
@@ -258,7 +258,7 @@
                         }
                     },
                     {
-                        "code": "30",
+                        "code": "27413",
                         "name": "Bekobod tumani",
                         "names": {
                             "uz": "Bekobod tumani",
@@ -270,31 +270,19 @@
                         }
                     },
                     {
-                        "code": "31",
-                        "name": "Zangiota tumani (Eshonguzar)",
+                        "code": "27238",
+                        "name": "Zangiota tumani",
                         "names": {
-                            "uz": "Zangiota tumani (Eshonguzar)",
-                            "ru": "Зангиатынский район (Эшонгузар)",
-                            "en": "Zangiata district (Eshanguzar)"
+                            "uz": "Zangiota tumani",
+                            "ru": "Зангиатынский район",
+                            "en": "Zangiata district"
                         },
                         "children": {
                             "titles": {}
                         }
                     },
                     {
-                        "code": "32",
-                        "name": "Zangiota tumani (Keles)",
-                        "names": {
-                            "uz": "Zangiota tumani (Keles)",
-                            "ru": "Зангиатынский район (Келес)",
-                            "en": "Zangiata district (Keles)"
-                        },
-                        "children": {
-                            "titles": {}
-                        }
-                    },
-                    {
-                        "code": "33",
+                        "code": "27248",
                         "name": "Qibray tumani",
                         "names": {
                             "uz": "Qibray tumani",
@@ -306,7 +294,7 @@
                         }
                     },
                     {
-                        "code": "34",
+                        "code": "27249",
                         "name": "Parkent tumani",
                         "names": {
                             "uz": "Parkent tumani",
@@ -318,7 +306,7 @@
                         }
                     },
                     {
-                        "code": "35",
+                        "code": "27250",
                         "name": "Pskent tumani",
                         "names": {
                             "uz": "Pskent tumani",
@@ -330,7 +318,7 @@
                         }
                     },
                     {
-                        "code": "36",
+                        "code": "27233",
                         "name": "Quyichirchiq tumani (Yangibozor)",
                         "names": {
                             "uz": "Quyichirchiq tumani (Yangibozor)",
@@ -342,7 +330,7 @@
                         }
                     },
                     {
-                        "code": "37",
+                        "code": "27253",
                         "name": "O\u0027rtachirchiq tumani (To\u0027ytepa)",
                         "names": {
                             "uz": "O\u0027rtachirchiq tumani (To\u0027ytepa)",
@@ -354,7 +342,7 @@
                         }
                     },
                     {
-                        "code": "38",
+                        "code": "27419",
                         "name": "Chirchiq tumani",
                         "names": {
                             "uz": "Chirchiq tumani",
@@ -366,7 +354,7 @@
                         }
                     },
                     {
-                        "code": "39",
+                        "code": "27256",
                         "name": "Chinoz tumani",
                         "names": {
                             "uz": "Chinoz tumani",
@@ -378,7 +366,7 @@
                         }
                     },
                     {
-                        "code": "40",
+                        "code": "27239",
                         "name": "Yuqorichirchiq tumani",
                         "names": {
                             "uz": "Yuqorichirchiq tumani",
@@ -390,7 +378,7 @@
                         }
                     },
                     {
-                        "code": "41",
+                        "code": "27259",
                         "name": "Yangiyo\u0027l tumani",
                         "names": {
                             "uz": "Yangiyo\u0027l tumani",
@@ -402,19 +390,19 @@
                         }
                     },
                     {
-                        "code": "42",
-                        "name": "Krasnogorsk sh.",
+                        "code": "27220",
+                        "name": "Zafar TETK",
                         "names": {
-                            "uz": "Krasnogorsk sh.",
-                            "ru": "г. Красногорск",
-                            "en": "Krasnogorsk city"
+                            "uz": "Zafar TETK",
+                            "ru": "Zafar TETK",
+                            "en": "Zafar TETK"
                         },
                         "children": {
                             "titles": {}
                         }
                     },
                     {
-                        "code": "43",
+                        "code": "27424",
                         "name": "Yangiyo\u0027l shahar",
                         "names": {
                             "uz": "Yangiyo\u0027l shahar",
@@ -426,7 +414,7 @@
                         }
                     },
                     {
-                        "code": "21",
+                        "code": "27415",
                         "name": "Ohangaron shahar\r\n",
                         "names": {
                             "uz": "Ohangaron shahar\r\n",
@@ -438,7 +426,7 @@
                         }
                     },
                     {
-                        "code": "22",
+                        "code": "27401",
                         "name": "Nurafshon shahar\r\n",
                         "names": {
                             "uz": "Nurafshon shahar\r\n",
