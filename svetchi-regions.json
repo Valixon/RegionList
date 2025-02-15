@@ -415,11 +415,11 @@
                     },
                     {
                         "code": "27415",
-                        "name": "Ohangaron shahar\r\n",
+                        "name": "Ohangaron shahar",
                         "names": {
-                            "uz": "Ohangaron shahar\r\n",
-                            "ru": "г.Ахангарон\r\n",
-                            "en": "Akhangaran city\r\n"
+                            "uz": "Ohangaron shahar",
+                            "ru": "г.Ахангарон",
+                            "en": "Akhangaran city"
                         },
                         "children": {
                             "titles": {}
@@ -427,11 +427,11 @@
                     },
                     {
                         "code": "27401",
-                        "name": "Nurafshon shahar\r\n",
+                        "name": "Nurafshon shahar",
                         "names": {
-                            "uz": "Nurafshon shahar\r\n",
-                            "ru": "г.Нурафшон\r\n",
-                            "en": "Nurafshan city\r\n"
+                            "uz": "Nurafshon shahar",
+                            "ru": "г.Нурафшон",
+                            "en": "Nurafshan city"
                         },
                         "children": {
                             "titles": {}

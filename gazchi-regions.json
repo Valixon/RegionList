@@ -427,11 +427,11 @@
                     },
                     {
                         "code": "21",
-                        "name": "Ohangaron shahar\r\n",
+                        "name": "Ohangaron shahar",
                         "names": {
-                            "uz": "Ohangaron shahar\r\n",
-                            "ru": "г.Ахангарон\r\n",
-                            "en": "Akhangaran city\r\n"
+                            "uz": "Ohangaron shahar",
+                            "ru": "г.Ахангарон",
+                            "en": "Akhangaran city"
                         },
                         "children": {
                             "titles": {}
@@ -439,11 +439,11 @@
                     },
                     {
                         "code": "22",
-                        "name": "Nurafshon shahar\r\n",
+                        "name": "Nurafshon shahar",
                         "names": {
-                            "uz": "Nurafshon shahar\r\n",
-                            "ru": "г.Нурафшон\r\n",
-                            "en": "Nurafshan city\r\n"
+                            "uz": "Nurafshon shahar",
+                            "ru": "г.Нурафшон",
+                            "en": "Nurafshan city"
                         },
                         "children": {
                             "titles": {}
@@ -1888,11 +1888,11 @@
                     },
                     {
                         "code": "155",
-                        "name": "Shahrisabz shahar\r\n",
+                        "name": "Shahrisabz shahar",
                         "names": {
-                            "uz": "Shahrisabz shahar\r\n",
-                            "ru": "г.Шаҳрисабз\r\n",
-                            "en": "Shakhrisabz city\r\n"
+                            "uz": "Shahrisabz shahar",
+                            "ru": "г.Шаҳрисабз",
+                            "en": "Shakhrisabz city"
                         },
                         "children": {
                             "titles": {}
@@ -2377,11 +2377,11 @@
                     },
                     {
                         "code": "229",
-                        "name": "Uchquduq tumani\r\n",
+                        "name": "Uchquduq tumani",
                         "names": {
-                            "uz": "Uchquduq tumani\r\n",
-                            "ru": "Учкудукский район\r\n",
-                            "en": "Uchkuduk district\r\n"
+                            "uz": "Uchquduq tumani",
+                            "ru": "Учкудукский район",
+                            "en": "Uchkuduk district"
                         },
                         "children": {
                             "titles": {}
@@ -2389,11 +2389,11 @@
                     },
                     {
                         "code": "185",
-                        "name": "G\u0027ozg\u0027on shahar\r\n",
+                        "name": "G\u0027ozg\u0027on shahar",
                         "names": {
-                            "uz": "G\u0027ozg\u0027on shahar\r\n",
-                            "ru": "г.Гозгон\r\n",
-                            "en": "Gozgon city\r\n"
+                            "uz": "G\u0027ozg\u0027on shahar",
+                            "ru": "г.Гозгон",
+                            "en": "Gozgon city"
                         },
                         "children": {
                             "titles": {}
@@ -2401,11 +2401,11 @@
                     },
                     {
                         "code": "194",
-                        "name": "Tomdi tumani\r\n",
+                        "name": "Tomdi tumani",
                         "names": {
-                            "uz": "Tomdi tumani\r\n",
-                            "ru": "Тамдынский район\r\n",
-                            "en": "Tamdi district\r\n"
+                            "uz": "Tomdi tumani",
+                            "ru": "Тамдынский район",
+                            "en": "Tamdi district"
                         },
                         "children": {
                             "titles": {}
@@ -2805,9 +2805,9 @@
                         "code": "207",
                         "name": "Xiva shahar",
                         "names": {
-                            "uz": "Xiva shahar\r\n",
-                            "ru": "г.Хива\r\n",
-                            "en": "Khiva city\r\n"
+                            "uz": "Xiva shahar",
+                            "ru": "г.Хива",
+                            "en": "Khiva city"
                         },
                         "children": {
                             "titles": {}
@@ -2817,9 +2817,9 @@
                         "code": "230",
                         "name": "Tuproqqal\u0027a tumani",
                         "names": {
-                            "uz": "Tuproqqal\u0027a tumani\r\n",
-                            "ru": "Тупроккалинский район\r\n",
-                            "en": "Tuprokkala district\r\n"
+                            "uz": "Tuproqqal\u0027a tumani",
+                            "ru": "Тупроккалинский район",
+                            "en": "Tuprokkala district"
                         },
                         "children": {
                             "titles": {}
