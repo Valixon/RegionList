@@ -1,28 +1,14 @@
 [
   {
-      "key": "Yordam",
-      "lt": "Sizga yordam bera olganimdan xursandman! Yana savollaringiz bo'lsa, bemalol yozing."
-      "uz": "Сизга ёрдам бера олганимдан хурсандман! Яна саволларингиз бўлса, бемалол ёзинг."
-      "ru": "Я рад, что смог вам помочь! Если у вас есть еще вопросы, не стесняйтесь писать."
-    },
+    "key": "Yordam",
+    "lt": "Sizga yordam bera olganimdan xursandman! Yana savollaringiz bo'lsa, bemalol yozing.",
+    "uz": "Сизга ёрдам бера олганимдан хурсандман! Яна саволларингиз бўлса, бемалол ёзинг.",
+    "ru": "Я рад, что смог вам помочь! Если у вас есть еще вопросы, не стесняйтесь писать."
+  },
   {
-      "key": "Login, Логин, Авторизоваться",
-      "lt": "Ilovani Play Marketdan qayta o‘rnatib ko‘ring. Agar muammo hal bo‘lmasa, bu xatolik quyidagi sabablarga ko‘ra paydo bo‘ladi:
-
-Qurilmangiz eskirgan operasion tizimdan foydalanmoqda va u bizning xavfsizlik talablarimizga javob bermaydi.
-
-Siz ilovani tasdiqlanmagan manbadan o‘rnatgansiz, bu esa ruxsat etilmaydi va ilovaning noto‘g‘ri ishlashiga olib kelishi mumkin.
-
-Biz xavfsizlikni ustuvor vazifa deb bilamiz va barcha foydalanuvchilarga xavfsiz tajriba taqdim etishga intilamiz."
-      "uz": "Ас салому алейкум
-Иловани Play Маркетдан қайта ўрнатиб кўринг. Агар муаммо ҳал бўлмаса, бу хатолик қуйидаги сабабларга кўра пайдо бўлади:
-
-Қурилмангиз эскирган операцион тизимдан фойдаланмоқда ва у бизнинг хавфсизлик талабларимизга жавоб бермайди.
-
-Сиз иловани тасдиқланмаган манбадан ўрнатгансиз, бу эса рухсат этилмайди ва илованинг нотўғри ишлашига олиб келиши мумкин.
-
-Биз хавфсизликни устувор вазифа деб биламиз ва барча фойдаланувчиларга хавфсиз тажриба тақдим этишга интиламиз."
-      "ru": "Здравствуйте .
-Пожалуйста, удалите и переустановите приложение.  Если это не помогло, вероятно, на вашем устройстве установлена ​​устаревшая операционная система, которая не соответствует нашим мерам безопасности.  Вторая причина — вы можете скачивать приложение из неофициальных источников.  Корректно работать будут только приложения, загруженные из Play Market."
-    }
+    "key": "Login, Логин, Авторизоваться",
+    "lt": "Ilovani Play Marketdan qayta o‘rnatib ko‘ring. Agar muammo hal bo‘lmasa, bu xatolik quyidagi sabablarga ko‘ra paydo bo‘ladi:\n\nQurilmangiz eskirgan operasion tizimdan foydalanmoqda va u bizning xavfsizlik talablarimizga javob bermaydi.\n\nSiz ilovani tasdiqlanmagan manbadan o‘rnatgansiz, bu esa ruxsat etilmaydi va ilovaning noto‘g‘ri ishlashiga olib kelishi mumkin.\n\nBiz xavfsizlikni ustuvor vazifa deb bilamiz va barcha foydalanuvchilarga xavfsiz tajriba taqdim etishga intilamiz.",
+    "uz": "Ас салому алейкум\nИловани Play Маркетдан қайта ўрнатиб кўринг. Агар муаммо ҳал бўлмаса, бу хатолик қуйидаги сабабларга кўра пайдо бўлади:\n\nҚурилмангиз эскирган операцион тизимдан фойдаланмоқда ва у бизнинг хавфсизлик талабларимизга жавоб бермайди.\n\nСиз иловани тасдиқланмаган манбадан ўрнатгансиз, бу эса рухсат этилмайди ва илованинг нотўғри ишлашига олиб келиши мумкин.\n\nБиз хавфсизликни устувор вазифа деб биламиз ва барча фойдаланувчиларга хавфсиз тажриба тақдим этишга интиламиз.",
+    "ru": "Здравствуйте.\nПожалуйста, удалите и переустановите приложение. Если это не помогло, вероятно, на вашем устройстве установлена устаревшая операционная система, которая не соответствует нашим мерам безопасности. Вторая причина — вы можете скачивать приложение из неофициальных источников. Корректно работать будут только приложения, загруженные из Play Market."
+  }
 ]
