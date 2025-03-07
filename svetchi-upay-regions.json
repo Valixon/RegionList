@@ -1,0 +1,2997 @@
+{
+    "title": "Hudud",
+    "titles": {},
+    "areas": [
+        {
+            "code": "1",
+            "name": "Toshkent shahri",
+            "names": {
+                "uz": "Toshkent shahri",
+                "ru": "г. Ташкент",
+                "en": "Tashkent city"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "26280",
+                        "name": "Olmazor ETK",
+                        "names": {
+                            "uz": "Olmazor ETK",
+                            "ru": "Алмазарское ЭСП",
+                            "en": "Almazar ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "26264",
+                        "name": "Bektemir ETK",
+                        "names": {
+                            "uz": "Bektemir ETK",
+                            "ru": "Бектемирское ЭСП",
+                            "en": "Bektemir ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "26273",
+                        "name": "Mirobod ETK",
+                        "names": {
+                            "uz": "Mirobod ETK",
+                            "ru": "Мирабадское ЭСП",
+                            "en": "Mirobod ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "26269",
+                        "name": "Mirzo Ulug`bek ETK",
+                        "names": {
+                            "uz": "Mirzo Ulug`bek ETK",
+                            "ru": "Мирзо-Улугбекское ЭСП",
+                            "en": "Mirzo Ulugbek ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "26283",
+                        "name": "Sergeli ETK",
+                        "names": {
+                            "uz": "Sergeli ETK",
+                            "ru": "Сергелийское ЭСП",
+                            "en": "Sergeli ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "26262",
+                        "name": "Uchtepa ETK",
+                        "names": {
+                            "uz": "Uchtepa ETK",
+                            "ru": "Учтепинское ЭСП",
+                            "en": "Uchtepa ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "26290",
+                        "name": "Yashnobod ETK",
+                        "names": {
+                            "uz": "Yashnobod ETK",
+                            "ru": "Яшнабадское ЭСП",
+                            "en": "Yashanobod ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "26294",
+                        "name": "Chilonzor ETK",
+                        "names": {
+                            "uz": "Chilonzor ETK",
+                            "ru": "Чиланзарское ЭСП",
+                            "en": "Chilanzar ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "26277",
+                        "name": "Shayhontoxur ETK",
+                        "names": {
+                            "uz": "Shayhontoxur ETK",
+                            "ru": "Шайхантахурское ЭСП",
+                            "en": "Shaykhantakhur ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "26266",
+                        "name": "Yunusobod ETK",
+                        "names": {
+                            "uz": "Yunusobod ETK",
+                            "ru": "Юнусабадское ЭСП",
+                            "en": "Yunusobod ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "26287",
+                        "name": "Yakkasaroy ETK",
+                        "names": {
+                            "uz": "Yakkasaroy ETK",
+                            "ru": "Яккасарайское ЭСП",
+                            "en": "Yakkasaroy ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "26292",
+                        "name": "Yangihayot ETK",
+                        "names": {
+                            "uz": "Yangihayot ETK",
+                            "ru": "Янгихаятское ЭСП",
+                            "en": "Yangikhayat ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "2",
+            "name": "Toshkent viloyati",
+            "names": {
+                "uz": "Toshkent viloyati",
+                "ru": "Ташкентская область",
+                "en": "Tashkent region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "27206",
+                        "name": "Oqqo`rg`on ETK",
+                        "names": {
+                            "uz": "Oqqo`rg`on ETK",
+                            "ru": "Аккурганское ЭСП",
+                            "en": "Akkurgan ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27404",
+                        "name": "Olmaliq ETK",
+                        "names": {
+                            "uz": "Olmaliq ETK",
+                            "ru": "Алмалыкское ЭСП",
+                            "en": "Almalik ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27407",
+                        "name": "Angren ETK",
+                        "names": {
+                            "uz": "Angren ETK",
+                            "ru": "Ангренское ЭСП",
+                            "en": "Angren ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27415",
+                        "name": "Ohangaron shahar ETK",
+                        "names": {
+                            "uz": "Ohangaron shahar ETK",
+                            "ru": "Ахангаран Гор ЭСП",
+                            "en": "Akhangaran city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27212",
+                        "name": "Ohangaron ETK",
+                        "names": {
+                            "uz": "Ohangaron ETK",
+                            "ru": "Ахангаранское ЭСП",
+                            "en": "Akhangaron ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27413",
+                        "name": "Bekobod ETK",
+                        "names": {
+                            "uz": "Bekobod ETK",
+                            "ru": "Бекабадское ЭСП",
+                            "en": "Bekobod ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27224",
+                        "name": "Bo`stonliq ETK",
+                        "names": {
+                            "uz": "Bo`stonliq ETK",
+                            "ru": "Бостанлыкское ЭСП",
+                            "en": "Bustanlik ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27228",
+                        "name": "Bo`ka ETK",
+                        "names": {
+                            "uz": "Bo`ka ETK",
+                            "ru": "Букинское ЭСП",
+                            "en": "Buka ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27238",
+                        "name": "Zangiota ETK",
+                        "names": {
+                            "uz": "Zangiota ETK",
+                            "ru": "Зангиатинское ЭСП",
+                            "en": "Zangiata ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27220",
+                        "name": "Zafar ETK",
+                        "names": {
+                            "uz": "Zafar ETK",
+                            "ru": "Зафарское ЭСП",
+                            "en": "Zafar ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27248",
+                        "name": "Qibray ETK",
+                        "names": {
+                            "uz": "Qibray ETK",
+                            "ru": "Кибрайское ЭСП",
+                            "en": "Kibray ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27233",
+                        "name": "Quyichirchiq ETK",
+                        "names": {
+                            "uz": "Quyichirchiq ETK",
+                            "ru": "Куйичирчикское ЭСП",
+                            "en": "Kuyichirchik ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27401",
+                        "name": "Nurafshon shahar ETK",
+                        "names": {
+                            "uz": "Nurafshon shahar ETK",
+                            "ru": "Нурафшон Гор ЭСП",
+                            "en": "Narafshan city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27249",
+                        "name": "Parkent ETK",
+                        "names": {
+                            "uz": "Parkent ETK",
+                            "ru": "Паркентское ЭСП",
+                            "en": "Parkent ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27250",
+                        "name": "Pskent ETK",
+                        "names": {
+                            "uz": "Pskent ETK",
+                            "ru": "Пскентское ЭСП",
+                            "en": "Pskent ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27237",
+                        "name": "Toshkent tumani ETK",
+                        "names": {
+                            "uz": "Toshkent tumani ETK",
+                            "ru": "Ташкентское район ЭСП",
+                            "en": "Tashkent district ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27253",
+                        "name": "O`rtachirchiq ETK",
+                        "names": {
+                            "uz": "O`rtachirchiq ETK",
+                            "ru": "Уртачирчикское ЭСП",
+                            "en": "Urtachirchik ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27256",
+                        "name": "Chinoz ETK",
+                        "names": {
+                            "uz": "Chinoz ETK",
+                            "ru": "Чиназское ЭСП",
+                            "en": "Chinoz ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27419",
+                        "name": "Chirchiq ETK",
+                        "names": {
+                            "uz": "Chirchiq ETK",
+                            "ru": "Чирчикское ЭСП",
+                            "en": "Chirchik ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27239",
+                        "name": "Yuqorichirchiq ETK",
+                        "names": {
+                            "uz": "Yuqorichirchiq ETK",
+                            "ru": "Юкоричирчикское ЭСП",
+                            "en": "Yukarichirchiq ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27424",
+                        "name": "Yangiyo\u0027l shahar ETK",
+                        "names": {
+                            "uz": "Yangiyo\u0027l shahar ETK",
+                            "ru": "Янгиюль Гор ЭСП",
+                            "en": "Yangiyul city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "27259",
+                        "name": "Yangiyo`l ETK",
+                        "names": {
+                            "uz": "Yangiyo`l ETK",
+                            "ru": "Янгиюльское ЭСП",
+                            "en": "Yangiyul ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "3",
+            "name": "Andijon viloyati",
+            "names": {
+                "uz": "Andijon viloyati",
+                "ru": "Андижанская область",
+                "en": "Andijan region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "03202",
+                        "name": "Oltinkolskiy tuman",
+                        "names": {
+                            "uz": "Oltinkolskiy tuman",
+                            "ru": "Алтинкулский район",
+                            "en": "Altinkulskiy district"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "03403",
+                        "name": "Bobur shahar ETK",
+                        "names": {
+                            "uz": "Bobur shahar ETK",
+                            "ru": "Бобур ГорЭСП",
+                            "en": "Bobur city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "03400",
+                        "name": "Andijon XETK",
+                        "names": {
+                            "uz": "Andijon XETK",
+                            "ru": "Андижанское ПТЭС",
+                            "en": "Andijan"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "03404",
+                        "name": "Andijon eski shahar ETK",
+                        "names": {
+                            "uz": "Andijon eski shahar ETK",
+                            "ru": "Андижанское стар. ГорЭП",
+                            "en": "Andijan old city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "03401",
+                        "name": "Andijon yangi shahar ETK",
+                        "names": {
+                            "uz": "Andijon yangi shahar ETK",
+                            "ru": "Андижанское нов. ГорЭСП",
+                            "en": "Andijan new city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "03203",
+                        "name": "Andijon ETK",
+                        "names": {
+                            "uz": "Andijon ETK",
+                            "ru": "Андижанское ЭСП",
+                            "en": "Andijan ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "03405",
+                        "name": "Asaka shahar ETK",
+                        "names": {
+                            "uz": "Asaka shahar ETK",
+                            "ru": "Асакинское ГорЭСП",
+                            "en": "Asaka city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "03224",
+                        "name": "Asaka ETK",
+                        "names": {
+                            "uz": "Asaka ETK",
+                            "ru": "Асакинское ЭСП",
+                            "en": "Asaka ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "03206",
+                        "name": "Baliqchi ETK",
+                        "names": {
+                            "uz": "Baliqchi ETK",
+                            "ru": "Балыкчинское ЭСП",
+                            "en": "Balikchi ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "03209",
+                        "name": "Bo`z ETK",
+                        "names": {
+                            "uz": "Bo`z ETK",
+                            "ru": "Бозское ЭСП",
+                            "en": "Buz ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "03210",
+                        "name": "Buloqboshi ETK",
+                        "names": {
+                            "uz": "Buloqboshi ETK",
+                            "ru": "Булакбашинское ЭСП",
+                            "en": "Bulakbashi ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "03211",
+                        "name": "Jalolquduq ETK",
+                        "names": {
+                            "uz": "Jalolquduq ETK",
+                            "ru": "Джалалкудукское ЭСП",
+                            "en": "Djalalkuduk ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "03214",
+                        "name": "Izboskan ETK",
+                        "names": {
+                            "uz": "Izboskan ETK",
+                            "ru": "Избасканское ЭСП",
+                            "en": "Izbaskan ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "03204",
+                        "name": "Kuygan yor ETK",
+                        "names": {
+                            "uz": "Kuygan yor ETK",
+                            "ru": "Куйганёрский ЭСП",
+                            "en": "Kuygan yar ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "03220",
+                        "name": "Qo`rg`ontepa ETK",
+                        "names": {
+                            "uz": "Qo`rg`ontepa ETK",
+                            "ru": "Кургантепинское ЭСП",
+                            "en": "Kurgantepa ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "03227",
+                        "name": "Marhamat ETK",
+                        "names": {
+                            "uz": "Marhamat ETK",
+                            "ru": "Мархаматское ЭСП",
+                            "en": "Markhamat ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "03232",
+                        "name": "Paxtaobod ETK",
+                        "names": {
+                            "uz": "Paxtaobod ETK",
+                            "ru": "Пахтаабадский ЭСП",
+                            "en": "Pakhtobod ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "03217",
+                        "name": "Ulug`nor ETK",
+                        "names": {
+                            "uz": "Ulug`nor ETK",
+                            "ru": "Улугноpское ЭСП",
+                            "en": "Ulugnor ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "03408",
+                        "name": "Xonobod shahar ETK",
+                        "names": {
+                            "uz": "Xonobod shahar ETK",
+                            "ru": "Ханабадское ГорЭСП",
+                            "en": "Khanabad city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "03236",
+                        "name": "Xo`jaobod ETK",
+                        "names": {
+                            "uz": "Xo`jaobod ETK",
+                            "ru": "Ходжаабадское ЭСП",
+                            "en": "Khujaobod ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "03207",
+                        "name": "Chinobod ETK",
+                        "names": {
+                            "uz": "Chinobod ETK",
+                            "ru": "Чинабадское ЭСП",
+                            "en": "Chinobod ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "03231",
+                        "name": "Shahrixon shahar ETK",
+                        "names": {
+                            "uz": "Shahrixon shahar ETK",
+                            "ru": "Шахриханское ГорЭСП",
+                            "en": "Shakhrikhon city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "03230",
+                        "name": "Shahrixon ETK",
+                        "names": {
+                            "uz": "Shahrixon ETK",
+                            "ru": "Шахриханское ЭСП",
+                            "en": "Shakhrikhon ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "14207",
+                        "name": "Kosonsoy ETK",
+                        "names": {
+                            "uz": "Kosonsoy ETK",
+                            "ru": "Касансайское ЭСП",
+                            "en": "Kosonsoy ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "14204",
+                        "name": "Mingbuloq ETK",
+                        "names": {
+                            "uz": "Mingbuloq ETK",
+                            "ru": "Мингбулакское ЭСП",
+                            "en": "Mingbulak ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "14405",
+                        "name": "Istiqbol ETK",
+                        "names": {
+                            "uz": "Istiqbol ETK",
+                            "ru": "Истикбол ЭСП",
+                            "en": "Istiqbol ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "14401",
+                        "name": "Namangan shahar Markaz 2 ETK",
+                        "names": {
+                            "uz": "Namangan shahar Markaz 2 ETK",
+                            "ru": "Наманганское Гор Ц2 ЭСП",
+                            "en": "Namangan city Centre 2 ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "14402",
+                        "name": "Do\u0027stlik ETK",
+                        "names": {
+                            "uz": "Do\u0027stlik ETK",
+                            "ru": "Дустликское ЭСП",
+                            "en": "Dustlik ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "14403",
+                        "name": "Namangan Energosotish",
+                        "names": {
+                            "uz": "Namangan Energosotish",
+                            "ru": "Наманган Энергосотиш",
+                            "en": "Namangan Energosotish"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "14404",
+                        "name": "Namangan shahar Markaz ETK",
+                        "names": {
+                            "uz": "Namangan shahar Markaz ETK",
+                            "ru": "Наманганское Гор Ц ЭСП",
+                            "en": "Namangan city Centre ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "14212",
+                        "name": "Namangan ETK",
+                        "names": {
+                            "uz": "Namangan ETK",
+                            "ru": "Наманганское ЭСП",
+                            "en": "Namangan ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "14216",
+                        "name": "Norin ETK",
+                        "names": {
+                            "uz": "Norin ETK",
+                            "ru": "Нарынское ЭСП",
+                            "en": "Narin ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "14219",
+                        "name": "Pop ETK",
+                        "names": {
+                            "uz": "Pop ETK",
+                            "ru": "Папское ЭСП",
+                            "en": "Pop ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "14224",
+                        "name": "To`raqo`rg`on ETK",
+                        "names": {
+                            "uz": "To`raqo`rg`on ETK",
+                            "ru": "Туракурганское ЭСП",
+                            "en": "Turakurgon ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "14229",
+                        "name": "Uychi ETK",
+                        "names": {
+                            "uz": "Uychi ETK",
+                            "ru": "Уйчинское ЭСП",
+                            "en": "Uychi ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "14234",
+                        "name": "Uchqo`rg`on ETK",
+                        "names": {
+                            "uz": "Uchqo`rg`on ETK",
+                            "ru": "Учкурганское ЭСП",
+                            "en": "Uchkurgan ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "14236",
+                        "name": "Chortoq ETK",
+                        "names": {
+                            "uz": "Chortoq ETK",
+                            "ru": "Чартакское ЭСП",
+                            "en": "Chortok ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "14237",
+                        "name": "Chust ETK",
+                        "names": {
+                            "uz": "Chust ETK",
+                            "ru": "Чустское ЭСП",
+                            "en": "Chust ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "14242",
+                        "name": "Yangiqo`rg`on ETK",
+                        "names": {
+                            "uz": "Yangiqo`rg`on ETK",
+                            "ru": "Янгикурганское ЭСП",
+                            "en": "Yangikurgan ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "4",
+            "name": "Buxoro viloyati",
+            "names": {
+                "uz": "Buxoro viloyati",
+                "ru": "Бухарская область",
+                "en": "Bukhara region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "06204",
+                        "name": "Olot ETK",
+                        "names": {
+                            "uz": "Olot ETK",
+                            "ru": "Алатское ЭСП",
+                            "en": "Olot ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "06401",
+                        "name": "Buxoro shahar ETK",
+                        "names": {
+                            "uz": "Buxoro shahar ETK",
+                            "ru": "Бухарское ГорЭСП",
+                            "en": "Bukhara city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "06400",
+                        "name": "Buxoro XETK",
+                        "names": {
+                            "uz": "Buxoro XETK",
+                            "ru": "Бухарское ПТЭС",
+                            "en": "Bukhara ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "06207",
+                        "name": "Buxoro ETK",
+                        "names": {
+                            "uz": "Buxoro ETK",
+                            "ru": "Бухарское ЭСП",
+                            "en": "Bukhara ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "06212",
+                        "name": "Vobkent ETK",
+                        "names": {
+                            "uz": "Vobkent ETK",
+                            "ru": "Вабкентское ЭСП",
+                            "en": "Vobkent ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "06215",
+                        "name": "G`ijduvon ETK",
+                        "names": {
+                            "uz": "G`ijduvon ETK",
+                            "ru": "Гиждуванское ЭСП",
+                            "en": "Gijduvan ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "06246",
+                        "name": "Jondor ETK",
+                        "names": {
+                            "uz": "Jondor ETK",
+                            "ru": "Жондоpское ЭСП",
+                            "en": "Jandar ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "06219",
+                        "name": "Kogon JShI",
+                        "names": {
+                            "uz": "Kogon JShI",
+                            "ru": "Каганское ЭСП",
+                            "en": "Kogon ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "06230",
+                        "name": "Qorako`l JShI",
+                        "names": {
+                            "uz": "Qorako`l JShI",
+                            "ru": "Каракульское ЭСП",
+                            "en": "Karakul ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "06232",
+                        "name": "Qorovulbozor JShI",
+                        "names": {
+                            "uz": "Qorovulbozor JShI",
+                            "ru": "Караулбазарское ЭСП",
+                            "en": "Karaulbazar ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "06240",
+                        "name": "Peshku ETK",
+                        "names": {
+                            "uz": "Peshku ETK",
+                            "ru": "Пешкунское ЭСП",
+                            "en": "Peshku ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "06242",
+                        "name": "Romiton ETK",
+                        "names": {
+                            "uz": "Romiton ETK",
+                            "ru": "Ромитанское ЭСП",
+                            "en": "Ramiton ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "06258",
+                        "name": "Shofirkon ETK",
+                        "names": {
+                            "uz": "Shofirkon ETK",
+                            "ru": "Шафирканское ЭСП",
+                            "en": "Shafurkan ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "5",
+            "name": "Jizzax viloyati",
+            "names": {
+                "uz": "Jizzax viloyati",
+                "ru": "Джизакская область",
+                "en": "Jizzakh region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "08201",
+                        "name": "Arnasoy ETK",
+                        "names": {
+                            "uz": "Arnasoy ETK",
+                            "ru": "Арнасайское ЭСП",
+                            "en": "Arnasay ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "08204",
+                        "name": "Baxmal ETK",
+                        "names": {
+                            "uz": "Baxmal ETK",
+                            "ru": "Бахмальское ЭСП",
+                            "en": "Bakhmal ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "08209",
+                        "name": "G`allaorol ETK",
+                        "names": {
+                            "uz": "G`allaorol ETK",
+                            "ru": "Галляаральское ЭСП",
+                            "en": "Gallaarol ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "08402",
+                        "name": "Jizzax shahar ETK",
+                        "names": {
+                            "uz": "Jizzax shahar ETK",
+                            "ru": "Джизакское ГорЭСП",
+                            "en": "Jizzakh city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "08212",
+                        "name": "Jizzax ETK",
+                        "names": {
+                            "uz": "Jizzax ETK",
+                            "ru": "Джизакское ЭСП",
+                            "en": "Jizzakh ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "08215",
+                        "name": "Do\u0027stlik ETK",
+                        "names": {
+                            "uz": "Do\u0027stlik ETK",
+                            "ru": "Дустликское ЭСП",
+                            "en": "Dustlik ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "08218",
+                        "name": "Zomin ETK",
+                        "names": {
+                            "uz": "Zomin ETK",
+                            "ru": "Зааминское ЭСП",
+                            "en": "Zomin ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "08220",
+                        "name": "Zarbdor ETK",
+                        "names": {
+                            "uz": "Zarbdor ETK",
+                            "ru": "Зарбдорское ЭСП",
+                            "en": "Zarbdor ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "08225",
+                        "name": "Zafarobod ETK",
+                        "names": {
+                            "uz": "Zafarobod ETK",
+                            "ru": "Зафарабадское ЭСП",
+                            "en": "Zafarabad ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "08223",
+                        "name": "Mirzacho`l ETK",
+                        "names": {
+                            "uz": "Mirzacho`l ETK",
+                            "ru": "Мирзачульское ЭСП",
+                            "en": "Мирзачульское ЭСП"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "08228",
+                        "name": "Paxtakor ETK",
+                        "names": {
+                            "uz": "Paxtakor ETK",
+                            "ru": "Пахтакорское ЭСП",
+                            "en": "Pakhtakor ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "08235",
+                        "name": "Forish ETK",
+                        "names": {
+                            "uz": "Forish ETK",
+                            "ru": "Фаришское ЭСП",
+                            "en": "Farish ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "08237",
+                        "name": "Yangiobod ETK",
+                        "names": {
+                            "uz": "Yangiobod ETK",
+                            "ru": "Янгиободское ЭСП",
+                            "en": "Yagiobod ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "6",
+            "name": "Qashqadaryo viloyati",
+            "names": {
+                "uz": "Qashqadaryo viloyati",
+                "ru": "Кашкадарьинская область",
+                "en": "Kashkadarya region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "10231",
+                        "name": "Bahoriston ETK",
+                        "names": {
+                            "uz": "Bahoriston ETK",
+                            "ru": "Бахористанское ЭСП",
+                            "en": "Bahoriston ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "10207",
+                        "name": "G`uzor ETK",
+                        "names": {
+                            "uz": "G`uzor ETK",
+                            "ru": "Гузарское ЭСП",
+                            "en": "Guzar ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "10212",
+                        "name": "Dexqonobod ETK",
+                        "names": {
+                            "uz": "Dexqonobod ETK",
+                            "ru": "Дехканабадское ЭСП",
+                            "en": "Dekhkanobod ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "10220",
+                        "name": "Qamashi ETK",
+                        "names": {
+                            "uz": "Qamashi ETK",
+                            "ru": "Камашинское ЭСП",
+                            "en": "Kamashi ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "10401",
+                        "name": "Qarshi shahar ETK",
+                        "names": {
+                            "uz": "Qarshi shahar ETK",
+                            "ru": "Каршинское ГорЭСП",
+                            "en": "Karshi city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "10224",
+                        "name": "Qarshi ETK",
+                        "names": {
+                            "uz": "Qarshi ETK",
+                            "ru": "Каршинское ЭСП",
+                            "en": "Karshi ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "10229",
+                        "name": "Koson ETK",
+                        "names": {
+                            "uz": "Koson ETK",
+                            "ru": "Касанское ЭСП",
+                            "en": "Koson ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "10237",
+                        "name": "Kasbi ETK",
+                        "names": {
+                            "uz": "Kasbi ETK",
+                            "ru": "Касбинское ЭСП",
+                            "en": "Kasbi ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "10232",
+                        "name": "Kitob ETK",
+                        "names": {
+                            "uz": "Kitob ETK",
+                            "ru": "Китабское ЭСП",
+                            "en": "Kitob ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "10233",
+                        "name": "Mirishkor ETK",
+                        "names": {
+                            "uz": "Mirishkor ETK",
+                            "ru": "Миришкорское ЭСП",
+                            "en": "Mirishkar ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "10234",
+                        "name": "Muborak ETK",
+                        "names": {
+                            "uz": "Muborak ETK",
+                            "ru": "Мубарекское ЭСП",
+                            "en": "Mubarak ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "10235",
+                        "name": "Nishon ETK",
+                        "names": {
+                            "uz": "Nishon ETK",
+                            "ru": "Нишанское ЭСП",
+                            "en": "Nishan ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "10240",
+                        "name": "Ko`kdali ETK",
+                        "names": {
+                            "uz": "Ko`kdali ETK",
+                            "ru": "Кукдалинское ЭСП",
+                            "en": "Kukdali ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "10242",
+                        "name": "Chiroqchi ETK",
+                        "names": {
+                            "uz": "Chiroqchi ETK",
+                            "ru": "Чиракчинское ЭСП",
+                            "en": "Chirakchi ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "10246",
+                        "name": "Shaxrisabz shahar ETK",
+                        "names": {
+                            "uz": "Shaxrisabz shahar ETK",
+                            "ru": "Шахрисабзское ГорЭСП",
+                            "en": "Shakhrisabz city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "10245",
+                        "name": "Shaxrisabz ETK",
+                        "names": {
+                            "uz": "Shaxrisabz ETK",
+                            "ru": "Шахрисабзское ЭСП",
+                            "en": "Shakhrisabz ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "10250",
+                        "name": "Yakkabog` ETK",
+                        "names": {
+                            "uz": "Yakkabog` ETK",
+                            "ru": "Яккабагское ЭСП",
+                            "en": "Yakkabog ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "7",
+            "name": "Navoiy viloyati",
+            "names": {
+                "uz": "Navoiy viloyati",
+                "ru": "Навоийская область",
+                "en": "Navoiy region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "12408",
+                        "name": "Zarafshon shahar ETK",
+                        "names": {
+                            "uz": "Zarafshon shahar ETK",
+                            "ru": "Заравшанское ГорЭСП",
+                            "en": "Zarafshon city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "12211",
+                        "name": "Konimeh ETK",
+                        "names": {
+                            "uz": "Konimeh ETK",
+                            "ru": "Канимехское ЭСП",
+                            "en": "Konimeh ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "12234",
+                        "name": "Karmana ETK",
+                        "names": {
+                            "uz": "Karmana ETK",
+                            "ru": "Карманинское ЭСП",
+                            "en": "Karmana ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "12216",
+                        "name": "Qiziltepa ETK",
+                        "names": {
+                            "uz": "Qiziltepa ETK",
+                            "ru": "Кызылтепинское ЭСП",
+                            "en": "Kiziltepa ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "12230",
+                        "name": "Navbahor ETK",
+                        "names": {
+                            "uz": "Navbahor ETK",
+                            "ru": "Навбахорское ЭСП",
+                            "en": "Navbakhor ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "12401",
+                        "name": "Navoiy shahar ETK",
+                        "names": {
+                            "uz": "Navoiy shahar ETK",
+                            "ru": "Навоинское ГорЭСП",
+                            "en": "Navoi ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "12402",
+                        "name": "Navoiy Energosotish",
+                        "names": {
+                            "uz": "Navoiy Energosotish",
+                            "ru": "Навои Энергосотиш",
+                            "en": "Navoi Energosotish"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "12400",
+                        "name": "Navoiy XETK",
+                        "names": {
+                            "uz": "Navoiy XETK",
+                            "ru": "Навоинское ПТЭС",
+                            "en": "Navoi"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "12238",
+                        "name": "Nurota ETK",
+                        "names": {
+                            "uz": "Nurota ETK",
+                            "ru": "Нуратинское ЭСП",
+                            "en": "Nurata ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "12244",
+                        "name": "Tomdi ETK",
+                        "names": {
+                            "uz": "Tomdi ETK",
+                            "ru": "Тамдынское ЭСП",
+                            "en": "Tomdi ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "12248",
+                        "name": "Uchquduq ETK",
+                        "names": {
+                            "uz": "Uchquduq ETK",
+                            "ru": "Учкудукское ЭСП",
+                            "en": "Uchkuduk ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "12251",
+                        "name": "Xatirchi ETK",
+                        "names": {
+                            "uz": "Xatirchi ETK",
+                            "ru": "Хатырчинское ЭСП",
+                            "en": "Xatirchi ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "8",
+            "name": "Namangan viloyati",
+            "names": {
+                "uz": "Namangan viloyati",
+                "ru": "Наманганская область",
+                "en": "Namangan region"
+            },
+            "children": {
+                "titles": {}
+            }
+        },
+        {
+            "code": "9",
+            "name": "Samarqand viloyati",
+            "names": {
+                "uz": "Samarqand viloyati",
+                "ru": "Самаркандская область",
+                "en": "Samarkand region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "18203",
+                        "name": "Oqdaryo ETK",
+                        "names": {
+                            "uz": "Oqdaryo ETK",
+                            "ru": "Акдарьинское ЭСП",
+                            "en": "Akdarya ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18408",
+                        "name": "Bog`ishamol ETK",
+                        "names": {
+                            "uz": "Bog`ishamol ETK",
+                            "ru": "Багишамальское ЭСП",
+                            "en": "Bogishamol ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18206",
+                        "name": "Bulung`ur ETK",
+                        "names": {
+                            "uz": "Bulung`ur ETK",
+                            "ru": "Булунгурское ЭСП",
+                            "en": "Bulungur ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18228",
+                        "name": "G`azalkent ETK",
+                        "names": {
+                            "uz": "G`azalkent ETK",
+                            "ru": "Гузалкентское ЭСП",
+                            "en": "Gazalkent ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18237",
+                        "name": "Dehqonobod ETK",
+                        "names": {
+                            "uz": "Dehqonobod ETK",
+                            "ru": "Дехканобадское ЭСП",
+                            "en": "Dekhkanobod ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18239",
+                        "name": "Dehqonobod ETK",
+                        "names": {
+                            "uz": "Dehqonobod ETK",
+                            "ru": "Дехканабадское ЭСП",
+                            "en": "Dekhkanabad ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18209",
+                        "name": "Jomboy ETK",
+                        "names": {
+                            "uz": "Jomboy ETK",
+                            "ru": "Джамбайское ЭСП",
+                            "en": "Jomboy ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18233",
+                        "name": "Do`stlik ETK",
+                        "names": {
+                            "uz": "Do`stlik ETK",
+                            "ru": "Дустликское ЭСП",
+                            "en": "Dustlik ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18234",
+                        "name": "Zarafshon ETK",
+                        "names": {
+                            "uz": "Zarafshon ETK",
+                            "ru": "Зарафшанское ЭСП",
+                            "en": "Zarafshan ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18212",
+                        "name": "Ishtixon ETK",
+                        "names": {
+                            "uz": "Ishtixon ETK",
+                            "ru": "Зарафшанское ЭСП",
+                            "en": "Ishtikhon ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18214",
+                        "name": "Qoradaryo ETK",
+                        "names": {
+                            "uz": "Qoradaryo ETK",
+                            "ru": "Карадарьинское ЭСП",
+                            "en": "Karadarya ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18215",
+                        "name": "Kattaqo`rg`on ETK",
+                        "names": {
+                            "uz": "Kattaqo`rg`on ETK",
+                            "ru": "Каттакурганское ЭСП",
+                            "en": "Kattakorgan ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18216",
+                        "name": "Qo`shrabot ETK",
+                        "names": {
+                            "uz": "Qo`shrabot ETK",
+                            "ru": "Кошрабадское ЭСП",
+                            "en": "Kushrabot ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18218",
+                        "name": "Narpay ETK",
+                        "names": {
+                            "uz": "Narpay ETK",
+                            "ru": "Нарпайское ЭСП",
+                            "en": "Narpay ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18235",
+                        "name": "Nurobod ETK",
+                        "names": {
+                            "uz": "Nurobod ETK",
+                            "ru": "Нурабадское ЭСП",
+                            "en": "Nurobod ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18224",
+                        "name": "Payariq ETK",
+                        "names": {
+                            "uz": "Payariq ETK",
+                            "ru": "Пайарыкское ЭСП",
+                            "en": "Payariq ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18227",
+                        "name": "Pastdarg`om ETK",
+                        "names": {
+                            "uz": "Pastdarg`om ETK",
+                            "ru": "Пастдаргомское ЭСП",
+                            "en": "Pastdargom ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18230",
+                        "name": "Paxtachi ETK",
+                        "names": {
+                            "uz": "Paxtachi ETK",
+                            "ru": "Пахтачийское ЭСП",
+                            "en": "Pakhtachi ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18407",
+                        "name": "Siyob ETK",
+                        "names": {
+                            "uz": "Siyob ETK",
+                            "ru": "Сиабское ЭСП",
+                            "en": "Siyob ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18238",
+                        "name": "Toyloq ETK",
+                        "names": {
+                            "uz": "Toyloq ETK",
+                            "ru": "Тайлякское ЭСП",
+                            "en": "Toylok ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18405",
+                        "name": "Temiryo`l ETK",
+                        "names": {
+                            "uz": "Temiryo`l ETK",
+                            "ru": "Темирйульское ЭСП",
+                            "en": "Temiryul ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18236",
+                        "name": "Urgut ETK",
+                        "names": {
+                            "uz": "Urgut ETK",
+                            "ru": "Ургутское ЭСП",
+                            "en": "Urgut ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18225",
+                        "name": "Chelak ETK",
+                        "names": {
+                            "uz": "Chelak ETK",
+                            "ru": "Челекское ЭСП",
+                            "en": "Chelak ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "18226",
+                        "name": "Chelak ETK 2",
+                        "names": {
+                            "uz": "Chelak ETK 2",
+                            "ru": "Челекское ЭСП 2",
+                            "en": "Chelak ESC 2"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "10",
+            "name": "Surxondaryo viloyati",
+            "names": {
+                "uz": "Surxondaryo viloyati",
+                "ru": "Сурхандарьинская область",
+                "en": "Surkhandarya region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "22201",
+                        "name": "Oltinsoy ETK",
+                        "names": {
+                            "uz": "Oltinsoy ETK",
+                            "ru": "Алтынсайское ЭСП",
+                            "en": "Altinay ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "22202",
+                        "name": "Angor ETK",
+                        "names": {
+                            "uz": "Angor ETK",
+                            "ru": "Ангорское ЭСП",
+                            "en": "Angor ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "22204",
+                        "name": "Boysun ETK",
+                        "names": {
+                            "uz": "Boysun ETK",
+                            "ru": "Байсунское ЭСП",
+                            "en": "Boysun ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "22206",
+                        "name": "Bandixon ETK",
+                        "names": {
+                            "uz": "Bandixon ETK",
+                            "ru": "Бандыханское ЭСП",
+                            "en": "Bandikhon ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "22211",
+                        "name": "Denov shahar ETK",
+                        "names": {
+                            "uz": "Denov shahar ETK",
+                            "ru": "Денауское ГорЭСП",
+                            "en": "Denov city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "22210",
+                        "name": "Denov ETK",
+                        "names": {
+                            "uz": "Denov ETK",
+                            "ru": "Денауское ЭСП",
+                            "en": "Denov ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "22212",
+                        "name": "Jarqo`rg`on ETK",
+                        "names": {
+                            "uz": "Jarqo`rg`on ETK",
+                            "ru": "Джаркурганское ЭСП",
+                            "en": "Jarakurgan ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "22215",
+                        "name": "Qiziriq ETK",
+                        "names": {
+                            "uz": "Qiziriq ETK",
+                            "ru": "Кизирикское ЭСП",
+                            "en": "Kizirik ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "22214",
+                        "name": "Qumqo`rg`on ETK",
+                        "names": {
+                            "uz": "Qumqo`rg`on ETK",
+                            "ru": "Кумкурганское ЭСП",
+                            "en": "Kumkurgan ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "22207",
+                        "name": "Muzrabod ETK",
+                        "names": {
+                            "uz": "Muzrabod ETK",
+                            "ru": "Музрабадское ЭСП",
+                            "en": "Muztabod ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "22217",
+                        "name": "Sariosiyo ETK",
+                        "names": {
+                            "uz": "Sariosiyo ETK",
+                            "ru": "Сариасийское ЭСП",
+                            "en": "Sariasiyo ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "22401",
+                        "name": "Termiz shahar ETK",
+                        "names": {
+                            "uz": "Termiz shahar ETK",
+                            "ru": "Термезское ГорЭСП",
+                            "en": "Termiz city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "22220",
+                        "name": "Termiz ETK",
+                        "names": {
+                            "uz": "Termiz ETK",
+                            "ru": "Термезское ЭСП",
+                            "en": "Termiz ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "22221",
+                        "name": "Uzun ETK",
+                        "names": {
+                            "uz": "Uzun ETK",
+                            "ru": "Узунское ЭСП",
+                            "en": "Uzun ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "22223",
+                        "name": "Sherobod ETK",
+                        "names": {
+                            "uz": "Sherobod ETK",
+                            "ru": "Шерабадское ЭСП",
+                            "en": "Sherobod ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "22226",
+                        "name": "Sho`rchi ETK",
+                        "names": {
+                            "uz": "Sho`rchi ETK",
+                            "ru": "Шурчинское ЭСП",
+                            "en": "Shurchi ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "11",
+            "name": "Sirdaryo viloyati",
+            "names": {
+                "uz": "Sirdaryo viloyati",
+                "ru": "Сырдарьинская область",
+                "en": "Syrdarya region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "24206",
+                        "name": "Oqoltin ETK",
+                        "names": {
+                            "uz": "Oqoltin ETK",
+                            "ru": "Акалтынское ЭСП",
+                            "en": "Akoltin ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "24212",
+                        "name": "Boyavut ETK",
+                        "names": {
+                            "uz": "Boyavut ETK",
+                            "ru": "Баяутское ЭСП",
+                            "en": "Boyavut ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "24401",
+                        "name": "Guliston shahar ETK",
+                        "names": {
+                            "uz": "Guliston shahar ETK",
+                            "ru": "Гулистанское ГорЭСП",
+                            "en": "Gulistan city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "24220",
+                        "name": "Guliston ETK",
+                        "names": {
+                            "uz": "Guliston ETK",
+                            "ru": "Гулистанское ЭСП",
+                            "en": "Gulistan ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "24228",
+                        "name": "Mirzaobod ETK",
+                        "names": {
+                            "uz": "Mirzaobod ETK",
+                            "ru": "Мирзаабадское ЭСП",
+                            "en": "Mirzaobod ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "24216",
+                        "name": "Sayxunobod ETK",
+                        "names": {
+                            "uz": "Sayxunobod ETK",
+                            "ru": "Сайхунабадское ЭСП",
+                            "en": "Saykhunobod ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "24226",
+                        "name": "Sardoba ETK",
+                        "names": {
+                            "uz": "Sardoba ETK",
+                            "ru": "Сардобское ЭСП",
+                            "en": "Sardoba ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "24402",
+                        "name": "Guliston XETK",
+                        "names": {
+                            "uz": "Guliston XETK",
+                            "ru": "Гулистанское ЭСП",
+                            "en": "Gulistan"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "24231",
+                        "name": "Sirdaryo ETK",
+                        "names": {
+                            "uz": "Sirdaryo ETK",
+                            "ru": "Сырдарьинское ЭСП",
+                            "en": "Syrdarya ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "24235",
+                        "name": "Xovot ETK",
+                        "names": {
+                            "uz": "Xovot ETK",
+                            "ru": "Хавастское ЭСП",
+                            "en": "Xavot ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "24410",
+                        "name": "Shirin shahar ETK",
+                        "names": {
+                            "uz": "Shirin shahar ETK",
+                            "ru": "Шиpинское ГорЭСП",
+                            "en": "Shirin city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "24413",
+                        "name": "Yangiyer shahar ETK",
+                        "names": {
+                            "uz": "Yangiyer shahar ETK",
+                            "ru": "Янгиеpское ГорЭСП",
+                            "en": "Yangiyer city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "12",
+            "name": "Farg`ona viloyati",
+            "names": {
+                "uz": "Farg`ona viloyati",
+                "ru": "Ферганская область",
+                "en": "Ferghana region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "30203",
+                        "name": "Oltiariq ETK",
+                        "names": {
+                            "uz": "Oltiariq ETK",
+                            "ru": "Алтыарыкское ЭСП",
+                            "en": "Altiarik ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "30209",
+                        "name": "Bog\u0027dod ETK",
+                        "names": {
+                            "uz": "Bog\u0027dod ETK",
+                            "ru": "Багдадское ЭСП",
+                            "en": "Bagdad ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "30215",
+                        "name": "Beshariq ETK",
+                        "names": {
+                            "uz": "Beshariq ETK",
+                            "ru": "Бешарыкское ЭСП",
+                            "en": "Besharik ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "30212",
+                        "name": "Buvayda ETK",
+                        "names": {
+                            "uz": "Buvayda ETK",
+                            "ru": "Бувайдинское ЭСП",
+                            "en": "Buvayda ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "30236",
+                        "name": "Dang`ara ETK",
+                        "names": {
+                            "uz": "Dang`ara ETK",
+                            "ru": "Дангаринское ЭСП",
+                            "en": "Dengara ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "30403",
+                        "name": "Qirguli ETK",
+                        "names": {
+                            "uz": "Qirguli ETK",
+                            "ru": "Киргулинское ЭСП",
+                            "en": "Kirguli ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "30405",
+                        "name": "Qo\u0027qon shahar ETK",
+                        "names": {
+                            "uz": "Qo\u0027qon shahar ETK",
+                            "ru": "Кокандское ГорЭСП",
+                            "en": "Kokan city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "30408",
+                        "name": "Quvasoy shahar ETK",
+                        "names": {
+                            "uz": "Quvasoy shahar ETK",
+                            "ru": "Кувасайское ГорЭСП",
+                            "en": "Kuvasay city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "30218",
+                        "name": "Quva ETK",
+                        "names": {
+                            "uz": "Quva ETK",
+                            "ru": "Кувинское ЭСП",
+                            "en": "Kuva ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "30206",
+                        "name": "Oxunboboyev ETK",
+                        "names": {
+                            "uz": "Oxunboboyev ETK",
+                            "ru": "Ахунбабаевское ЭСП",
+                            "en": "Okhunboboyev ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "30412",
+                        "name": "Marg\u0027ilon shahar ETK",
+                        "names": {
+                            "uz": "Marg\u0027ilon shahar ETK",
+                            "ru": "Маpгиланское ГорЭСП",
+                            "en": "Margelan city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "30224",
+                        "name": "Rishton ETK",
+                        "names": {
+                            "uz": "Rishton ETK",
+                            "ru": "Риштанское ЭСП",
+                            "en": "Rishtan ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "30226",
+                        "name": "So`x ETK",
+                        "names": {
+                            "uz": "So`x ETK",
+                            "ru": "Сохское ЭСП",
+                            "en": "Sukh ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "30227",
+                        "name": "Toshloq ETK",
+                        "names": {
+                            "uz": "Toshloq ETK",
+                            "ru": "Ташлакское ЭСП",
+                            "en": "Tashlok ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "30230",
+                        "name": "O\u0027zbekiston ETK",
+                        "names": {
+                            "uz": "O\u0027zbekiston ETK",
+                            "ru": "Узбекистанское ЭСП",
+                            "en": "Uzbekistan ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "30221",
+                        "name": "Uchko\u0027prik ETK",
+                        "names": {
+                            "uz": "Uchko\u0027prik ETK",
+                            "ru": "Учкуприкское ЭСП",
+                            "en": "Uchkuprik ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "30401",
+                        "name": "Farg\u0027ona shahar ETK",
+                        "names": {
+                            "uz": "Farg\u0027ona shahar ETK",
+                            "ru": "Ферганское ГорЭСП",
+                            "en": "Fergana city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "30400",
+                        "name": "Farg\u0027ona XETK",
+                        "names": {
+                            "uz": "Farg\u0027ona XETK",
+                            "ru": "Ферганское ПТЭС",
+                            "en": "Fergana"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "30233",
+                        "name": "Farg\u0027ona ETK",
+                        "names": {
+                            "uz": "Farg\u0027ona ETK",
+                            "ru": "Ферганское ЭСП",
+                            "en": "Fergana ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "30238",
+                        "name": "Furqat ETK",
+                        "names": {
+                            "uz": "Furqat ETK",
+                            "ru": "Фуркатское ЭСП",
+                            "en": "Furkat ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "30242",
+                        "name": "Yozyovon ETK",
+                        "names": {
+                            "uz": "Yozyovon ETK",
+                            "ru": "Язъяванское ЭСП",
+                            "en": "Yozyozvon ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "13",
+            "name": "Xorazm viloyati",
+            "names": {
+                "uz": "Xorazm viloyati",
+                "ru": "Хорезмская область",
+                "en": "Khorezm region"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "33204",
+                        "name": "Bog\u0027ot ETK",
+                        "names": {
+                            "uz": "Bog\u0027ot ETK",
+                            "ru": "Багатское ЭСП",
+                            "en": "Bagat ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "33208",
+                        "name": "Gurlan ETK",
+                        "names": {
+                            "uz": "Gurlan ETK",
+                            "ru": "Гурленское ЭСП",
+                            "en": "Gurlan ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "33212",
+                        "name": "Qo\u0027shko\u0027pir ETK",
+                        "names": {
+                            "uz": "Qo\u0027shko\u0027pir ETK",
+                            "ru": "Кошкупырское ЭСП",
+                            "en": "Kushkuprik ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "33402",
+                        "name": "Tuproqqala ETK",
+                        "names": {
+                            "uz": "Tuproqqala ETK",
+                            "ru": "Тупраккала ЭСП",
+                            "en": "Tuprokkala ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "33401",
+                        "name": "Urganch shahar ETK",
+                        "names": {
+                            "uz": "Urganch shahar ETK",
+                            "ru": "Ургенчское ГорЭСП",
+                            "en": "Urgench city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "33217",
+                        "name": "Urganch ETK",
+                        "names": {
+                            "uz": "Urganch ETK",
+                            "ru": "Ургенчское ЭСП",
+                            "en": "Urgench ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "33220",
+                        "name": "Xazorasp ETK",
+                        "names": {
+                            "uz": "Xazorasp ETK",
+                            "ru": "Хазараспское ЭСП",
+                            "en": "Khazorasp ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "33223",
+                        "name": "Xonqa ETK",
+                        "names": {
+                            "uz": "Xonqa ETK",
+                            "ru": "Ханкинское ЭСП",
+                            "en": "Khonka ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "33406",
+                        "name": "Xisha shahar ETK",
+                        "names": {
+                            "uz": "Xisha shahar ETK",
+                            "ru": "Хива Гор ЭСП",
+                            "en": "Xica city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "33226",
+                        "name": "Xiva ETK",
+                        "names": {
+                            "uz": "Xiva ETK",
+                            "ru": "Хивинское ЭСП",
+                            "en": "Xiva ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "33230",
+                        "name": "Shovot ETK",
+                        "names": {
+                            "uz": "Shovot ETK",
+                            "ru": "Шаватское ЭСП",
+                            "en": "Shavot ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "33233",
+                        "name": "Yangiariq ETK",
+                        "names": {
+                            "uz": "Yangiariq ETK",
+                            "ru": "Янгиарыкское ЭСП",
+                            "en": "Yangiarik ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "33236",
+                        "name": "Yangibozor ETK",
+                        "names": {
+                            "uz": "Yangibozor ETK",
+                            "ru": "Янгибазарское ЭСП",
+                            "en": "Yangibazar ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "code": "14",
+            "name": "Qoraqalpog`iston Respublikasi",
+            "names": {
+                "uz": "Qoraqalpog`iston Respublikasi",
+                "ru": "Республика Каракалпакстан",
+                "en": "Republic of Karakalpakstan"
+            },
+            "children": {
+                "title": "Tuman",
+                "titles": {},
+                "areas": [
+                    {
+                        "code": "35204",
+                        "name": "Amudaryo ETK",
+                        "names": {
+                            "uz": "Amudaryo ETK",
+                            "ru": "Амударьинское ЭСП",
+                            "en": "Amudarya ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "35207",
+                        "name": "Beruniy ETK",
+                        "names": {
+                            "uz": "Beruniy ETK",
+                            "ru": "Берунийское ЭСП",
+                            "en": "Beruniy ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "35214",
+                        "name": "Bo\u0027zatov ETK",
+                        "names": {
+                            "uz": "Bo\u0027zatov ETK",
+                            "ru": "Бузатауское ЭСП",
+                            "en": "Buzatau ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "35218",
+                        "name": "Kanliko`l ETK",
+                        "names": {
+                            "uz": "Kanliko`l ETK",
+                            "ru": "Канлыкульское ЭСП",
+                            "en": "Kanikul ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "35211",
+                        "name": "Qorauzoq ETK",
+                        "names": {
+                            "uz": "Qorauzoq ETK",
+                            "ru": "Караузякское ЭСП",
+                            "en": "Karauzak ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "35212",
+                        "name": "Kegeyli ETK",
+                        "names": {
+                            "uz": "Kegeyli ETK",
+                            "ru": "Кегейлийское ЭСП",
+                            "en": "Kegeyli ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "35215",
+                        "name": "Qo`ng`irot ETK",
+                        "names": {
+                            "uz": "Qo`ng`irot ETK",
+                            "ru": "Кунградское ЭСП",
+                            "en": "Kungirat ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "35222",
+                        "name": "Mo`ynoq ETK",
+                        "names": {
+                            "uz": "Mo`ynoq ETK",
+                            "ru": "Муйнакское ЭСП",
+                            "en": "Muynak ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "35401",
+                        "name": "Nukus shahar ETK",
+                        "names": {
+                            "uz": "Nukus shahar ETK",
+                            "ru": "Нукусское ГорЭСП",
+                            "en": "Nukus city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "35225",
+                        "name": "Nukus ETK",
+                        "names": {
+                            "uz": "Nukus ETK",
+                            "ru": "Нукусское ЭСП",
+                            "en": "Nukus ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "35410",
+                        "name": "Taxiatosh shahar ETK",
+                        "names": {
+                            "uz": "Taxiatosh shahar ETK",
+                            "ru": "Тахиаташское ГорЭСП",
+                            "en": "Takhiatash city ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "35411",
+                        "name": "Taxiatosh ETK",
+                        "names": {
+                            "uz": "Taxiatosh ETK",
+                            "ru": "Тахиаташское ЭСП",
+                            "en": "Takhiatash ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "35230",
+                        "name": "Taxtako`pir ETK",
+                        "names": {
+                            "uz": "Taxtako`pir ETK",
+                            "ru": "Тахтакупырское ЭСП",
+                            "en": "Takhtakupir ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "35233",
+                        "name": "To`rtko`l ETK",
+                        "names": {
+                            "uz": "To`rtko`l ETK",
+                            "ru": "Турткульское ЭСП",
+                            "en": "Turtkol ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "35236",
+                        "name": "Xo`jeyli ETK",
+                        "names": {
+                            "uz": "Xo`jeyli ETK",
+                            "ru": "Ходжейлийское ЭСП",
+                            "en": "Khujeli ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "35240",
+                        "name": "Chimboy ETK",
+                        "names": {
+                            "uz": "Chimboy ETK",
+                            "ru": "Чимбайское ЭСП",
+                            "en": "Chimboy ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "35243",
+                        "name": "Shumanoy ETK",
+                        "names": {
+                            "uz": "Shumanoy ETK",
+                            "ru": "Шуманайское ЭСП",
+                            "en": "Shumanoy ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    },
+                    {
+                        "code": "35250",
+                        "name": "Ellikqal\u0027a ETK",
+                        "names": {
+                            "uz": "Ellikqal\u0027a ETK",
+                            "ru": "Элликкалинское ЭСП",
+                            "en": "Ellikkala ESC"
+                        },
+                        "children": {
+                            "titles": {}
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
